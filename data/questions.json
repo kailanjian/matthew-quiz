@@ -1,0 +1,4399 @@
+[
+ {
+  "id": "ch-genealogy",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The genealogy of Jesus",
+  "answer": "Chapter 1. Jesus' family line from Abraham through David and the exile to Joseph, in three sets of fourteen generations, naming Tamar, Rahab, Ruth and 'the wife of Uriah'.",
+  "reference": "Matthew 1:1-17",
+  "chapter": 1,
+  "section": "Birth & preparation (1-4)",
+  "source": "genealogy"
+ },
+ {
+  "id": "ch-birth",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The birth of Jesus and Joseph's dream",
+  "answer": "Chapter 1. Mary is found to be with child from the Holy Spirit. An angel tells Joseph in a dream to take her as his wife and to name the child Jesus (Immanuel, 'God with us').",
+  "reference": "Matthew 1:18-25",
+  "chapter": 1,
+  "section": "Birth & preparation (1-4)",
+  "source": "birth"
+ },
+ {
+  "id": "ch-magi",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The visit of the wise men (Magi)",
+  "answer": "Chapter 2. Wise men from the east follow a star to Bethlehem, bring gold, frankincense and myrrh, and are warned in a dream not to return to Herod.",
+  "reference": "Matthew 2:1-12",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "magi"
+ },
+ {
+  "id": "ch-flight_egypt",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The flight to Egypt",
+  "answer": "Chapter 2. An angel warns Joseph, and he takes Mary and the child to Egypt ('Out of Egypt I called my son').",
+  "reference": "Matthew 2:13-15",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "flight_egypt"
+ },
+ {
+  "id": "ch-innocents",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Herod kills the children of Bethlehem",
+  "answer": "Chapter 2. Herod orders all boys two years old and under in Bethlehem killed, fulfilling Jeremiah's 'Rachel weeping for her children'.",
+  "reference": "Matthew 2:16-18",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "innocents"
+ },
+ {
+  "id": "ch-nazareth_return",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The return to Nazareth",
+  "answer": "Chapter 2. After Herod dies, Joseph returns but avoids Archelaus's Judea and settles in Nazareth: 'He shall be called a Nazarene.'",
+  "reference": "Matthew 2:19-23",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "nazareth_return"
+ },
+ {
+  "id": "ch-john_preaches",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) John the Baptist prepares the way",
+  "answer": "Chapter 3. John preaches repentance in the wilderness of Judea, wearing camel's hair and eating locusts and wild honey, and calls the Pharisees and Sadducees a 'brood of vipers'.",
+  "reference": "Matthew 3:1-12",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "john_preaches"
+ },
+ {
+  "id": "ch-baptism",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The baptism of Jesus",
+  "answer": "Chapter 3. John baptizes Jesus in the Jordan. The Spirit descends like a dove and a voice says, 'This is my beloved Son.'",
+  "reference": "Matthew 3:13-17",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "baptism"
+ },
+ {
+  "id": "ch-temptation",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The temptation of Jesus",
+  "answer": "Chapter 4. After fasting forty days, Jesus is tempted by the devil three times (stones to bread, the temple pinnacle, all the kingdoms) and answers each with Scripture.",
+  "reference": "Matthew 4:1-11",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "temptation"
+ },
+ {
+  "id": "ch-galilee_begins",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus begins his ministry in Galilee",
+  "answer": "Chapter 4. After John is arrested, Jesus moves to Capernaum, fulfilling Isaiah's 'people dwelling in darkness have seen a great light', and preaches 'Repent, for the kingdom of heaven is at hand.'",
+  "reference": "Matthew 4:12-17",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "galilee_begins"
+ },
+ {
+  "id": "ch-first_disciples",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus calls the first disciples",
+  "answer": "Chapter 4. By the Sea of Galilee Jesus calls Peter and Andrew, then James and John, to be 'fishers of men'.",
+  "reference": "Matthew 4:18-22",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "first_disciples"
+ },
+ {
+  "id": "ch-crowds_healed",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus teaches and heals great crowds",
+  "answer": "Chapter 4. Jesus goes throughout Galilee teaching, proclaiming the gospel and healing every disease; crowds follow from the Decapolis, Jerusalem, Judea and beyond the Jordan.",
+  "reference": "Matthew 4:23-25",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "crowds_healed"
+ },
+ {
+  "id": "ch-beatitudes",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The Beatitudes (Sermon on the Mount begins)",
+  "answer": "Chapter 5. On a mountain Jesus blesses the poor in spirit, mourners, the meek, the hungry for righteousness, the merciful, the pure in heart, peacemakers and the persecuted.",
+  "reference": "Matthew 5:1-12",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "beatitudes"
+ },
+ {
+  "id": "ch-salt_light",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Salt and light",
+  "answer": "Chapter 5. 'You are the salt of the earth... You are the light of the world.' Let your good works shine so others glorify your Father.",
+  "reference": "Matthew 5:13-16",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "salt_light"
+ },
+ {
+  "id": "ch-fulfill_law",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Christ came to fulfill the Law",
+  "answer": "Chapter 5. Jesus came not to abolish but to fulfill the Law and the Prophets; your righteousness must exceed that of the scribes and Pharisees.",
+  "reference": "Matthew 5:17-20",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "fulfill_law"
+ },
+ {
+  "id": "ch-anger",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Anger (murder)",
+  "answer": "Chapter 5. Being angry with or insulting a brother brings judgment; be reconciled before offering your gift at the altar, and settle with your accuser quickly.",
+  "reference": "Matthew 5:21-26",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "anger"
+ },
+ {
+  "id": "ch-lust",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Lust (adultery)",
+  "answer": "Chapter 5. Looking at a woman with lustful intent is adultery in the heart; if your right eye causes you to sin, tear it out.",
+  "reference": "Matthew 5:27-30",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "lust"
+ },
+ {
+  "id": "ch-divorce_sermon",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Divorce (Sermon on the Mount)",
+  "answer": "Chapter 5. Whoever divorces his wife, except for sexual immorality, makes her commit adultery.",
+  "reference": "Matthew 5:31-32",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "divorce_sermon"
+ },
+ {
+  "id": "ch-oaths",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Oaths",
+  "answer": "Chapter 5. Do not swear at all, by heaven, earth, Jerusalem or your head; let your 'Yes' be 'Yes' and your 'No' be 'No'.",
+  "reference": "Matthew 5:33-37",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "oaths"
+ },
+ {
+  "id": "ch-retaliation",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Retaliation (an eye for an eye)",
+  "answer": "Chapter 5. Do not resist the one who is evil: turn the other cheek, give your cloak too, go the second mile, give to the one who begs.",
+  "reference": "Matthew 5:38-42",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "retaliation"
+ },
+ {
+  "id": "ch-love_enemies",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Love your enemies",
+  "answer": "Chapter 5. Love your enemies and pray for those who persecute you, for the Father sends sun and rain on the just and unjust; be perfect as your Father is perfect.",
+  "reference": "Matthew 5:43-48",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "love_enemies"
+ },
+ {
+  "id": "ch-giving",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Giving to the needy",
+  "answer": "Chapter 6. Do not practice righteousness to be seen; when you give, do not sound a trumpet and do not let your left hand know what your right hand is doing.",
+  "reference": "Matthew 6:1-4",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "giving"
+ },
+ {
+  "id": "ch-prayer_secret",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Praying in secret",
+  "answer": "Chapter 6. Do not pray like the hypocrites on street corners or heap up empty phrases like the Gentiles; pray to your Father in secret.",
+  "reference": "Matthew 6:5-8",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "prayer_secret"
+ },
+ {
+  "id": "ch-lords_prayer",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The Lord's Prayer",
+  "answer": "Chapter 6. 'Our Father in heaven, hallowed be your name...' followed by the warning that if you do not forgive others, your Father will not forgive you.",
+  "reference": "Matthew 6:9-15",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "lords_prayer"
+ },
+ {
+  "id": "ch-fasting",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Fasting",
+  "answer": "Chapter 6. When you fast, do not look gloomy like the hypocrites; anoint your head and wash your face so your fasting is seen only by your Father.",
+  "reference": "Matthew 6:16-18",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "fasting"
+ },
+ {
+  "id": "ch-treasures",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Treasures in heaven",
+  "answer": "Chapter 6. Do not lay up treasures on earth where moth and rust destroy; where your treasure is, there your heart will be also.",
+  "reference": "Matthew 6:19-21",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "treasures"
+ },
+ {
+  "id": "ch-eye_lamp",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The eye is the lamp of the body",
+  "answer": "Chapter 6. If your eye is healthy your whole body will be full of light; if it is bad, how great is the darkness.",
+  "reference": "Matthew 6:22-23",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "eye_lamp"
+ },
+ {
+  "id": "ch-two_masters",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) No one can serve two masters",
+  "answer": "Chapter 6. You cannot serve God and money.",
+  "reference": "Matthew 6:24",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "two_masters"
+ },
+ {
+  "id": "ch-do_not_worry",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Do not be anxious",
+  "answer": "Chapter 6. Look at the birds of the air and the lilies of the field; seek first the kingdom of God and his righteousness, and do not be anxious about tomorrow.",
+  "reference": "Matthew 6:25-34",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "do_not_worry"
+ },
+ {
+  "id": "ch-judging",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Judging others (the speck and the log)",
+  "answer": "Chapter 7. Judge not, that you be not judged; take the log out of your own eye first; do not throw pearls before pigs.",
+  "reference": "Matthew 7:1-6",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "judging"
+ },
+ {
+  "id": "ch-ask_seek",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Ask, seek, knock",
+  "answer": "Chapter 7. Ask and it will be given; if evil fathers give good gifts instead of a stone or a serpent, how much more will your Father in heaven give good things.",
+  "reference": "Matthew 7:7-11",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "ask_seek"
+ },
+ {
+  "id": "ch-golden_rule",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The Golden Rule",
+  "answer": "Chapter 7. Whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.",
+  "reference": "Matthew 7:12",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "golden_rule"
+ },
+ {
+  "id": "ch-narrow_gate",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The narrow gate",
+  "answer": "Chapter 7. The gate is wide and the way easy that leads to destruction; narrow is the gate and hard the way that leads to life, and those who find it are few.",
+  "reference": "Matthew 7:13-14",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "narrow_gate"
+ },
+ {
+  "id": "ch-tree_fruit_prophets",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) A tree and its fruit (false prophets)",
+  "answer": "Chapter 7. Beware of false prophets in sheep's clothing; you will recognize them by their fruits.",
+  "reference": "Matthew 7:15-20",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "tree_fruit_prophets"
+ },
+ {
+  "id": "ch-never_knew",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) 'I never knew you'",
+  "answer": "Chapter 7. Not everyone who says 'Lord, Lord' will enter the kingdom, but the one who does the Father's will.",
+  "reference": "Matthew 7:21-23",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "never_knew"
+ },
+ {
+  "id": "ch-builders",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The wise and foolish builders",
+  "answer": "Chapter 7. The one who hears and does Jesus' words builds on the rock; the one who does not builds on sand, and his house falls.",
+  "reference": "Matthew 7:24-27",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "builders"
+ },
+ {
+  "id": "ch-authority_amazed",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The crowds are astonished at his authority",
+  "answer": "Chapter 7. The Sermon on the Mount ends; the crowds are astonished because he teaches as one with authority, not as their scribes.",
+  "reference": "Matthew 7:28-29",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "authority_amazed"
+ },
+ {
+  "id": "ch-leper",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus cleanses a leper",
+  "answer": "Chapter 8. A leper says 'Lord, if you will, you can make me clean.' Jesus touches him, heals him and sends him to show himself to the priest.",
+  "reference": "Matthew 8:1-4",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "leper"
+ },
+ {
+  "id": "ch-centurion",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The faith of the centurion",
+  "answer": "Chapter 8. A centurion in Capernaum asks Jesus only to say the word to heal his servant; Jesus marvels that he has not found such faith in Israel.",
+  "reference": "Matthew 8:5-13",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "centurion"
+ },
+ {
+  "id": "ch-peters_mother_in_law",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Peter's mother-in-law and many others healed",
+  "answer": "Chapter 8. Jesus heals Peter's mother-in-law of a fever and that evening heals many, fulfilling 'He took our illnesses and bore our diseases.'",
+  "reference": "Matthew 8:14-17",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "peters_mother_in_law"
+ },
+ {
+  "id": "ch-cost_following",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The cost of following Jesus",
+  "answer": "Chapter 8. To an eager scribe: 'Foxes have holes... but the Son of Man has nowhere to lay his head.' To a disciple: 'Leave the dead to bury their own dead.'",
+  "reference": "Matthew 8:18-22",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "cost_following"
+ },
+ {
+  "id": "ch-calms_storm",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus calms the storm",
+  "answer": "Chapter 8. Jesus sleeps in the boat during a great storm, rebukes the disciples' little faith, then rebukes the winds and sea.",
+  "reference": "Matthew 8:23-27",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "calms_storm"
+ },
+ {
+  "id": "ch-gadarenes",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The two demon-possessed men of the Gadarenes",
+  "answer": "Chapter 8. Jesus casts demons out of two fierce men into a herd of pigs, which rush into the sea; the town begs him to leave.",
+  "reference": "Matthew 8:28-34",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "gadarenes"
+ },
+ {
+  "id": "ch-paralytic",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals a paralytic",
+  "answer": "Chapter 9. Jesus tells a paralytic his sins are forgiven; when scribes call it blasphemy, he heals him to show the Son of Man has authority to forgive sins.",
+  "reference": "Matthew 9:1-8",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "paralytic"
+ },
+ {
+  "id": "ch-calls_matthew",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus calls Matthew",
+  "answer": "Chapter 9. Jesus calls Matthew from the tax booth and eats with tax collectors and sinners: 'I came not to call the righteous, but sinners.'",
+  "reference": "Matthew 9:9-13",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "calls_matthew"
+ },
+ {
+  "id": "ch-fasting_question",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) A question about fasting (new wine, old wineskins)",
+  "answer": "Chapter 9. John's disciples ask why Jesus' disciples do not fast; the wedding guests do not mourn while the bridegroom is with them. No one puts new wine into old wineskins.",
+  "reference": "Matthew 9:14-17",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "fasting_question"
+ },
+ {
+  "id": "ch-ruler_daughter",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) A ruler's daughter raised and a woman healed",
+  "answer": "Chapter 9. On the way to raise a ruler's dead daughter, Jesus heals a woman with a twelve-year discharge of blood who touched the fringe of his garment.",
+  "reference": "Matthew 9:18-26",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "ruler_daughter"
+ },
+ {
+  "id": "ch-two_blind_9",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals two blind men",
+  "answer": "Chapter 9. Two blind men cry 'Have mercy on us, Son of David'; Jesus touches their eyes: 'According to your faith be it done to you.'",
+  "reference": "Matthew 9:27-31",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "two_blind_9"
+ },
+ {
+  "id": "ch-mute_demoniac",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals a man who could not speak",
+  "answer": "Chapter 9. Jesus casts a demon out of a mute man; the crowds marvel, but the Pharisees say he casts out demons by the prince of demons.",
+  "reference": "Matthew 9:32-34",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "mute_demoniac"
+ },
+ {
+  "id": "ch-harvest",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The harvest is plentiful, the laborers few",
+  "answer": "Chapter 9. Seeing the crowds harassed and helpless like sheep without a shepherd, Jesus has compassion and tells the disciples to pray for laborers.",
+  "reference": "Matthew 9:35-38",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "harvest"
+ },
+ {
+  "id": "ch-twelve_named",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The twelve apostles",
+  "answer": "Chapter 10. Jesus gives the twelve authority over unclean spirits and disease; the apostles are named, from Simon Peter to Judas Iscariot.",
+  "reference": "Matthew 10:1-4",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "twelve_named"
+ },
+ {
+  "id": "ch-twelve_sent",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Jesus sends out the twelve",
+  "answer": "Chapter 10. Go only to the lost sheep of Israel; heal, raise the dead, take no money or bag; shake the dust off your feet where you are not received.",
+  "reference": "Matthew 10:5-15",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "twelve_sent"
+ },
+ {
+  "id": "ch-persecution",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Persecution will come",
+  "answer": "Chapter 10. 'I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves'; the one who endures to the end will be saved.",
+  "reference": "Matthew 10:16-25",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "persecution"
+ },
+ {
+  "id": "ch-have_no_fear",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Have no fear of them",
+  "answer": "Chapter 10. Do not fear those who kill the body; not one sparrow falls apart from your Father, and the hairs of your head are numbered. Whoever acknowledges me before men, I will acknowledge.",
+  "reference": "Matthew 10:26-33",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "have_no_fear"
+ },
+ {
+  "id": "ch-not_peace_sword",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Not peace, but a sword",
+  "answer": "Chapter 10. Jesus will set family members against one another; whoever loves father or mother more is not worthy; whoever loses his life for my sake will find it.",
+  "reference": "Matthew 10:34-39",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "not_peace_sword"
+ },
+ {
+  "id": "ch-rewards",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Rewards (a cup of cold water)",
+  "answer": "Chapter 10. Whoever receives you receives me; whoever gives a little one a cup of cold water will by no means lose his reward.",
+  "reference": "Matthew 10:40-42",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "rewards"
+ },
+ {
+  "id": "ch-john_question",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Messengers from John the Baptist",
+  "answer": "Chapter 11. From prison John asks, 'Are you the one who is to come?' Jesus answers: the blind see, the lame walk, the dead are raised, the poor hear good news.",
+  "reference": "Matthew 11:1-6",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "john_question"
+ },
+ {
+  "id": "ch-about_john",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Jesus' testimony about John (children in the marketplace)",
+  "answer": "Chapter 11. John is more than a prophet, the Elijah who is to come; this generation is like children who complain, rejecting both John and the Son of Man.",
+  "reference": "Matthew 11:7-19",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "about_john"
+ },
+ {
+  "id": "ch-woe_cities",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Woe to unrepentant cities",
+  "answer": "Chapter 11. Jesus denounces Chorazin, Bethsaida and Capernaum: Tyre, Sidon and Sodom would have repented had they seen his mighty works.",
+  "reference": "Matthew 11:20-24",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "woe_cities"
+ },
+ {
+  "id": "ch-come_to_me",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Come to me and I will give you rest",
+  "answer": "Chapter 11. The Father has hidden these things from the wise and revealed them to little children; 'Come to me, all who labor... my yoke is easy, and my burden is light.'",
+  "reference": "Matthew 11:25-30",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "come_to_me"
+ },
+ {
+  "id": "ch-lord_sabbath",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Lord of the Sabbath (grain fields)",
+  "answer": "Chapter 12. When the disciples pick grain on the Sabbath, Jesus cites David and the priests: 'Something greater than the temple is here... the Son of Man is lord of the Sabbath.'",
+  "reference": "Matthew 12:1-8",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "lord_sabbath"
+ },
+ {
+  "id": "ch-withered_hand",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) A man with a withered hand",
+  "answer": "Chapter 12. In the synagogue Jesus heals a withered hand on the Sabbath ('it is lawful to do good'); the Pharisees plot to destroy him.",
+  "reference": "Matthew 12:9-14",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "withered_hand"
+ },
+ {
+  "id": "ch-chosen_servant",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) God's chosen servant",
+  "answer": "Chapter 12. Jesus withdraws, heals many and orders them not to make him known, fulfilling Isaiah: 'a bruised reed he will not break.'",
+  "reference": "Matthew 12:15-21",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "chosen_servant"
+ },
+ {
+  "id": "ch-beelzebul",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Blasphemy against the Spirit (Jesus and Beelzebul)",
+  "answer": "Chapter 12. Accused of casting out demons by Beelzebul, Jesus says a house divided cannot stand; blasphemy against the Spirit will not be forgiven.",
+  "reference": "Matthew 12:22-32",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "beelzebul"
+ },
+ {
+  "id": "ch-tree_known",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) A tree is known by its fruit (careless words)",
+  "answer": "Chapter 12. 'Out of the abundance of the heart the mouth speaks'; people will give account for every careless word.",
+  "reference": "Matthew 12:33-37",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "tree_known"
+ },
+ {
+  "id": "ch-sign_jonah",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The sign of Jonah",
+  "answer": "Chapter 12. An evil generation seeks a sign; none will be given but Jonah's: three days and nights in the heart of the earth. Something greater than Jonah and Solomon is here.",
+  "reference": "Matthew 12:38-42",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "sign_jonah"
+ },
+ {
+  "id": "ch-unclean_spirit",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The return of an unclean spirit",
+  "answer": "Chapter 12. An unclean spirit leaves a man, finds the house empty and swept, and returns with seven worse spirits; so it will be with this evil generation.",
+  "reference": "Matthew 12:43-45",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "unclean_spirit"
+ },
+ {
+  "id": "ch-true_family",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus' mother and brothers",
+  "answer": "Chapter 12. Told his family is outside, Jesus points to his disciples: whoever does the will of my Father is my brother and sister and mother.",
+  "reference": "Matthew 12:46-50",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "true_family"
+ },
+ {
+  "id": "ch-sower",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the sower",
+  "answer": "Chapter 13. Teaching from a boat, Jesus tells of seed falling on the path, rocky ground, among thorns and on good soil yielding a hundredfold.",
+  "reference": "Matthew 13:1-9",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "sower"
+ },
+ {
+  "id": "ch-purpose_parables",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The purpose of the parables",
+  "answer": "Chapter 13. To the disciples it is given to know the secrets of the kingdom; to others he speaks in parables, fulfilling Isaiah's 'seeing they do not see.'",
+  "reference": "Matthew 13:10-17",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "purpose_parables"
+ },
+ {
+  "id": "ch-sower_explained",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the sower explained",
+  "answer": "Chapter 13. The seed is the word: snatched by the evil one, withered by persecution, choked by cares and riches, or bearing fruit in one who understands.",
+  "reference": "Matthew 13:18-23",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "sower_explained"
+ },
+ {
+  "id": "ch-weeds",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the weeds (wheat and tares)",
+  "answer": "Chapter 13. An enemy sows weeds among wheat; the master lets both grow until the harvest, then gathers the weeds to burn and the wheat into the barn.",
+  "reference": "Matthew 13:24-30",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "weeds"
+ },
+ {
+  "id": "ch-mustard_seed",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the mustard seed",
+  "answer": "Chapter 13. The kingdom is like the smallest of seeds that becomes a tree where birds nest.",
+  "reference": "Matthew 13:31-32",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "mustard_seed"
+ },
+ {
+  "id": "ch-leaven",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the leaven",
+  "answer": "Chapter 13. The kingdom is like leaven a woman hid in three measures of flour until all was leavened.",
+  "reference": "Matthew 13:33",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "leaven"
+ },
+ {
+  "id": "ch-prophecy_parables",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Prophecy and parables",
+  "answer": "Chapter 13. Jesus says nothing to the crowds without a parable, fulfilling 'I will open my mouth in parables.'",
+  "reference": "Matthew 13:34-35",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "prophecy_parables"
+ },
+ {
+  "id": "ch-weeds_explained",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the weeds explained",
+  "answer": "Chapter 13. The sower is the Son of Man, the field the world, the weeds the sons of the evil one, the harvest the end of the age; the righteous will shine like the sun.",
+  "reference": "Matthew 13:36-43",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "weeds_explained"
+ },
+ {
+  "id": "ch-hidden_treasure",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the hidden treasure",
+  "answer": "Chapter 13. A man finds treasure in a field and in his joy sells all he has to buy that field.",
+  "reference": "Matthew 13:44",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "hidden_treasure"
+ },
+ {
+  "id": "ch-pearl",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the pearl of great value",
+  "answer": "Chapter 13. A merchant finds one pearl of great value and sells all he has to buy it.",
+  "reference": "Matthew 13:45-46",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "pearl"
+ },
+ {
+  "id": "ch-net",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the net",
+  "answer": "Chapter 13. A net gathers fish of every kind; the good are kept and the bad thrown away, so the angels will separate the evil from the righteous.",
+  "reference": "Matthew 13:47-50",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "net"
+ },
+ {
+  "id": "ch-new_old_treasures",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) New and old treasures (the master of a house)",
+  "answer": "Chapter 13. Every scribe trained for the kingdom is like a master of a house who brings out of his treasure what is new and what is old.",
+  "reference": "Matthew 13:51-52",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "new_old_treasures"
+ },
+ {
+  "id": "ch-rejected_nazareth",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus rejected at Nazareth",
+  "answer": "Chapter 13. His hometown takes offense ('Is not this the carpenter's son?'); 'A prophet is not without honor except in his hometown.' He does few mighty works there because of their unbelief.",
+  "reference": "Matthew 13:53-58",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "rejected_nazareth"
+ },
+ {
+  "id": "ch-john_beheaded",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The death of John the Baptist",
+  "answer": "Chapter 14. Herod the tetrarch, who had imprisoned John over Herodias, has him beheaded at the request of Herodias's daughter after she dances at his birthday.",
+  "reference": "Matthew 14:1-12",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "john_beheaded"
+ },
+ {
+  "id": "ch-feeds_5000",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus feeds the five thousand",
+  "answer": "Chapter 14. With five loaves and two fish Jesus feeds about five thousand men besides women and children; twelve baskets are left over.",
+  "reference": "Matthew 14:13-21",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "feeds_5000"
+ },
+ {
+  "id": "ch-walks_water",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus walks on the water",
+  "answer": "Chapter 14. Jesus walks on the sea in the fourth watch; Peter walks toward him, sinks when he sees the wind, and is saved. The disciples worship him as the Son of God.",
+  "reference": "Matthew 14:22-33",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "walks_water"
+ },
+ {
+  "id": "ch-gennesaret",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals the sick in Gennesaret",
+  "answer": "Chapter 14. The sick beg to touch the fringe of his garment, and as many as touch it are made well.",
+  "reference": "Matthew 14:34-36",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "gennesaret"
+ },
+ {
+  "id": "ch-traditions",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Traditions and commandments (unwashed hands)",
+  "answer": "Chapter 15. Pharisees complain that the disciples do not wash their hands; Jesus says they void God's command to honor parents for their tradition ('This people honors me with their lips').",
+  "reference": "Matthew 15:1-9",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "traditions"
+ },
+ {
+  "id": "ch-what_defiles",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) What defiles a person",
+  "answer": "Chapter 15. Not what goes into the mouth but what comes out of the heart defiles; the Pharisees are blind guides.",
+  "reference": "Matthew 15:10-20",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "what_defiles"
+ },
+ {
+  "id": "ch-canaanite_woman",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The faith of a Canaanite woman",
+  "answer": "Chapter 15. In the region of Tyre and Sidon a Canaanite woman persists for her demon-oppressed daughter ('even the dogs eat the crumbs'); Jesus praises her great faith.",
+  "reference": "Matthew 15:21-28",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "canaanite_woman"
+ },
+ {
+  "id": "ch-heals_many_15",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals many by the Sea of Galilee",
+  "answer": "Chapter 15. On a mountain Jesus heals the lame, blind, crippled and mute, and the crowd glorifies the God of Israel.",
+  "reference": "Matthew 15:29-31",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "heals_many_15"
+ },
+ {
+  "id": "ch-feeds_4000",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus feeds the four thousand",
+  "answer": "Chapter 15. With seven loaves and a few small fish Jesus feeds four thousand men besides women and children; seven baskets are left over.",
+  "reference": "Matthew 15:32-39",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "feeds_4000"
+ },
+ {
+  "id": "ch-demand_sign",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The Pharisees and Sadducees demand a sign",
+  "answer": "Chapter 16. You can read the sky but not the signs of the times; no sign will be given except the sign of Jonah.",
+  "reference": "Matthew 16:1-4",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "demand_sign"
+ },
+ {
+  "id": "ch-leaven_pharisees",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The leaven of the Pharisees and Sadducees",
+  "answer": "Chapter 16. The disciples think Jesus is talking about bread; he means the teaching of the Pharisees and Sadducees.",
+  "reference": "Matthew 16:5-12",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "leaven_pharisees"
+ },
+ {
+  "id": "ch-peters_confession",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Peter confesses Jesus as the Christ",
+  "answer": "Chapter 16. At Caesarea Philippi Peter says, 'You are the Christ, the Son of the living God.' Jesus: 'On this rock I will build my church' and gives him the keys of the kingdom.",
+  "reference": "Matthew 16:13-20",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "peters_confession"
+ },
+ {
+  "id": "ch-foretells_death_1",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus foretells his death; 'Get behind me, Satan'",
+  "answer": "Chapter 16. Jesus begins to show he must suffer, be killed and be raised; Peter rebukes him and Jesus calls him a hindrance.",
+  "reference": "Matthew 16:21-23",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "foretells_death_1"
+ },
+ {
+  "id": "ch-take_up_cross",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Take up your cross",
+  "answer": "Chapter 16. Deny yourself and take up your cross; what will it profit a man if he gains the whole world and forfeits his soul?",
+  "reference": "Matthew 16:24-28",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "take_up_cross"
+ },
+ {
+  "id": "ch-transfiguration",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The Transfiguration",
+  "answer": "Chapter 17. On a high mountain Jesus' face shines like the sun before Peter, James and John; Moses and Elijah appear, and a voice says 'listen to him'. Coming down, Jesus says Elijah has already come (John the Baptist).",
+  "reference": "Matthew 17:1-13",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "transfiguration"
+ },
+ {
+  "id": "ch-demon_boy",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals a boy with a demon (faith like a mustard seed)",
+  "answer": "Chapter 17. The disciples cannot heal an epileptic boy; Jesus rebukes the demon and says faith like a mustard seed can move mountains.",
+  "reference": "Matthew 17:14-21",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "demon_boy"
+ },
+ {
+  "id": "ch-foretells_death_2",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus foretells his death a second time",
+  "answer": "Chapter 17. Gathered in Galilee, Jesus says he will be delivered, killed and raised on the third day; the disciples are greatly distressed.",
+  "reference": "Matthew 17:22-23",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "foretells_death_2"
+ },
+ {
+  "id": "ch-temple_tax",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The temple tax (the coin in the fish)",
+  "answer": "Chapter 17. Asked whether Jesus pays the two-drachma tax, Jesus sends Peter to catch a fish with a shekel in its mouth to pay for them both.",
+  "reference": "Matthew 17:24-27",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "temple_tax"
+ },
+ {
+  "id": "ch-greatest_child",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Who is the greatest? (become like children)",
+  "answer": "Chapter 18. Jesus sets a child among them: whoever humbles himself like this child is greatest; better a millstone than to cause a little one to sin.",
+  "reference": "Matthew 18:1-6",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "greatest_child"
+ },
+ {
+  "id": "ch-temptations_sin",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Temptations to sin",
+  "answer": "Chapter 18. Woe to the world for temptations; if your hand, foot or eye causes you to sin, cut it off or tear it out.",
+  "reference": "Matthew 18:7-9",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "temptations_sin"
+ },
+ {
+  "id": "ch-lost_sheep",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the lost sheep",
+  "answer": "Chapter 18. Do not despise little ones; a shepherd leaves the ninety-nine to seek the one that went astray. It is not the Father's will that one of these little ones perish.",
+  "reference": "Matthew 18:10-14",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "lost_sheep"
+ },
+ {
+  "id": "ch-brother_sins",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) If your brother sins against you (church discipline)",
+  "answer": "Chapter 18. Go to him alone, then with one or two witnesses, then tell the church; what you bind on earth is bound in heaven; where two or three are gathered, I am among them.",
+  "reference": "Matthew 18:15-20",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "brother_sins"
+ },
+ {
+  "id": "ch-forgive_77",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) How often to forgive (seventy-seven times)",
+  "answer": "Chapter 18. Peter asks if he should forgive seven times; Jesus says seventy-seven times.",
+  "reference": "Matthew 18:21-22",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "forgive_77"
+ },
+ {
+  "id": "ch-unforgiving_servant",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the unforgiving servant",
+  "answer": "Chapter 18. A servant forgiven ten thousand talents throttles a fellow servant who owes him a hundred denarii; the king hands him to the jailers.",
+  "reference": "Matthew 18:23-35",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "unforgiving_servant"
+ },
+ {
+  "id": "ch-divorce",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Teaching about divorce",
+  "answer": "Chapter 19. Pharisees test Jesus on divorce; from the beginning the two become one flesh: 'What God has joined together, let not man separate.' Some are eunuchs for the kingdom.",
+  "reference": "Matthew 19:1-12",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "divorce"
+ },
+ {
+  "id": "ch-little_children",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Let the little children come to me",
+  "answer": "Chapter 19. The disciples rebuke those bringing children; Jesus says to such belongs the kingdom of heaven and lays his hands on them.",
+  "reference": "Matthew 19:13-15",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "little_children"
+ },
+ {
+  "id": "ch-rich_young_man",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The rich young man",
+  "answer": "Chapter 19. A young man asks what good deed brings eternal life; told to sell his possessions and follow Jesus, he goes away sorrowful, for he had great possessions.",
+  "reference": "Matthew 19:16-22",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "rich_young_man"
+ },
+ {
+  "id": "ch-camel_needle",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) A camel through the eye of a needle (the reward of the twelve)",
+  "answer": "Chapter 19. It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom; with God all things are possible. The twelve will sit on twelve thrones; the first will be last.",
+  "reference": "Matthew 19:23-30",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "camel_needle"
+ },
+ {
+  "id": "ch-vineyard_workers",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the laborers in the vineyard",
+  "answer": "Chapter 20. A master hires workers throughout the day and pays all a denarius; those hired first grumble. 'The last will be first, and the first last.'",
+  "reference": "Matthew 20:1-16",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "vineyard_workers"
+ },
+ {
+  "id": "ch-foretells_death_3",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus foretells his death a third time",
+  "answer": "Chapter 20. Going up to Jerusalem, Jesus says he will be condemned, handed to the Gentiles to be mocked, flogged and crucified, and raised on the third day.",
+  "reference": "Matthew 20:17-19",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "foretells_death_3"
+ },
+ {
+  "id": "ch-zebedee_request",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The mother of James and John makes a request",
+  "answer": "Chapter 20. She asks for her sons to sit at Jesus' right and left; Jesus teaches that the great must be servants, as the Son of Man came to serve and give his life as a ransom for many.",
+  "reference": "Matthew 20:20-28",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "zebedee_request"
+ },
+ {
+  "id": "ch-two_blind_jericho",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus heals two blind men near Jericho",
+  "answer": "Chapter 20. Two blind men by the roadside cry 'Lord, have mercy on us, Son of David!' and Jesus, moved with pity, touches their eyes.",
+  "reference": "Matthew 20:29-34",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "two_blind_jericho"
+ },
+ {
+  "id": "ch-triumphal_entry",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The triumphal entry",
+  "answer": "Chapter 21. Jesus rides into Jerusalem on a donkey and a colt from Bethphage; crowds spread cloaks and branches and shout 'Hosanna to the Son of David!'",
+  "reference": "Matthew 21:1-11",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "triumphal_entry"
+ },
+ {
+  "id": "ch-cleanses_temple",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus cleanses the temple",
+  "answer": "Chapter 21. Jesus drives out the money-changers ('a den of robbers'), heals the blind and lame, and defends the children's Hosannas.",
+  "reference": "Matthew 21:12-17",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "cleanses_temple"
+ },
+ {
+  "id": "ch-fig_tree_cursed",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus curses the fig tree",
+  "answer": "Chapter 21. Finding only leaves, Jesus says 'May no fruit ever come from you again!' and it withers at once; with faith you could tell a mountain to be cast into the sea.",
+  "reference": "Matthew 21:18-22",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "fig_tree_cursed"
+ },
+ {
+  "id": "ch-authority_challenged",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The authority of Jesus challenged",
+  "answer": "Chapter 21. The chief priests and elders ask by what authority he acts; Jesus asks them whether John's baptism was from heaven or from man, and they will not answer.",
+  "reference": "Matthew 21:23-27",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "authority_challenged"
+ },
+ {
+  "id": "ch-two_sons",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the two sons",
+  "answer": "Chapter 21. One son refuses to work in the vineyard but goes; the other says 'I go, sir' but does not. Tax collectors and prostitutes go into the kingdom before you.",
+  "reference": "Matthew 21:28-32",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "two_sons"
+ },
+ {
+  "id": "ch-wicked_tenants",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the wicked tenants",
+  "answer": "Chapter 21. Tenants beat the owner's servants and kill his son; 'the stone that the builders rejected has become the cornerstone.' The chief priests realize he is speaking about them.",
+  "reference": "Matthew 21:33-46",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "wicked_tenants"
+ },
+ {
+  "id": "ch-wedding_feast",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the wedding feast",
+  "answer": "Chapter 22. Invited guests refuse a king's wedding feast for his son, so he invites all from the roads; a man without a wedding garment is cast out. 'Many are called, but few are chosen.'",
+  "reference": "Matthew 22:1-14",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "wedding_feast"
+ },
+ {
+  "id": "ch-taxes_caesar",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Paying taxes to Caesar",
+  "answer": "Chapter 22. Pharisees and Herodians try to trap him; looking at a denarius, Jesus says 'Render to Caesar the things that are Caesar's, and to God the things that are God's.'",
+  "reference": "Matthew 22:15-22",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "taxes_caesar"
+ },
+ {
+  "id": "ch-sadducees_resurrection",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Sadducees ask about the resurrection",
+  "answer": "Chapter 22. Asked whose wife a woman married to seven brothers will be, Jesus says in the resurrection they neither marry nor are given in marriage; God is the God of the living.",
+  "reference": "Matthew 22:23-33",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "sadducees_resurrection"
+ },
+ {
+  "id": "ch-great_commandment",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The great commandment",
+  "answer": "Chapter 22. Love the Lord your God with all your heart, soul and mind; and love your neighbor as yourself. On these two hang all the Law and the Prophets.",
+  "reference": "Matthew 22:34-40",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "great_commandment"
+ },
+ {
+  "id": "ch-whose_son",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Whose son is the Christ?",
+  "answer": "Chapter 22. If David calls the Christ 'Lord' (Psalm 110), how is he his son? No one can answer, and no one dares ask him more questions.",
+  "reference": "Matthew 22:41-46",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "whose_son"
+ },
+ {
+  "id": "ch-seven_woes_intro",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Hypocrisy of the scribes and Pharisees",
+  "answer": "Chapter 23. Do what they teach but not what they do; they love places of honor. Call no one teacher or father; whoever exalts himself will be humbled.",
+  "reference": "Matthew 23:1-12",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "seven_woes_intro"
+ },
+ {
+  "id": "ch-seven_woes",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The seven woes",
+  "answer": "Chapter 23. Woes to the scribes and Pharisees, hypocrites: they tithe mint but neglect justice, strain out a gnat and swallow a camel, and are like whitewashed tombs.",
+  "reference": "Matthew 23:13-36",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "seven_woes"
+ },
+ {
+  "id": "ch-lament_jerusalem",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Lament over Jerusalem",
+  "answer": "Chapter 23. 'O Jerusalem, Jerusalem... How often would I have gathered your children together as a hen gathers her brood under her wings.'",
+  "reference": "Matthew 23:37-39",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "lament_jerusalem"
+ },
+ {
+  "id": "ch-temple_destruction",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Jesus foretells the destruction of the temple",
+  "answer": "Chapter 24. Not one stone of the temple buildings will be left upon another.",
+  "reference": "Matthew 24:1-2",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "temple_destruction"
+ },
+ {
+  "id": "ch-signs_end",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) Signs of the end of the age (Olivet Discourse begins)",
+  "answer": "Chapter 24. On the Mount of Olives: wars, famines and earthquakes are the beginning of birth pains; the gospel will be proclaimed to all nations, and then the end will come.",
+  "reference": "Matthew 24:3-14",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "signs_end"
+ },
+ {
+  "id": "ch-abomination",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The abomination of desolation",
+  "answer": "Chapter 24. When you see the abomination spoken of by Daniel, flee to the mountains; there will be great tribulation and false christs. 'Wherever the corpse is, there the vultures will gather.'",
+  "reference": "Matthew 24:15-28",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "abomination"
+ },
+ {
+  "id": "ch-son_of_man_coming",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) The coming of the Son of Man",
+  "answer": "Chapter 24. The sun will be darkened and stars fall; the Son of Man will come on the clouds with power and glory, and angels will gather the elect with a loud trumpet call.",
+  "reference": "Matthew 24:29-31",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "son_of_man_coming"
+ },
+ {
+  "id": "ch-fig_tree_lesson",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The lesson of the fig tree",
+  "answer": "Chapter 24. When the fig tree's branch puts out leaves, summer is near; heaven and earth will pass away, but my words will not.",
+  "reference": "Matthew 24:32-35",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "fig_tree_lesson"
+ },
+ {
+  "id": "ch-day_hour",
+  "type": "which_chapter",
+  "question": "Which chapter? (teaching) No one knows that day and hour",
+  "answer": "Chapter 24. As in the days of Noah; one will be taken and one left. Stay awake, for the Son of Man is coming at an hour you do not expect, like a thief.",
+  "reference": "Matthew 24:36-44",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "day_hour"
+ },
+ {
+  "id": "ch-faithful_servant",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The faithful and wise servant",
+  "answer": "Chapter 24. Blessed is the servant his master finds at work; the wicked servant who says 'My master is delayed' will be cut in pieces, where there will be weeping and gnashing of teeth.",
+  "reference": "Matthew 24:45-51",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "faithful_servant"
+ },
+ {
+  "id": "ch-ten_virgins",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the ten virgins",
+  "answer": "Chapter 25. Five wise virgins bring oil and five foolish do not; when the bridegroom comes at midnight, the foolish are shut out. Watch, for you know neither the day nor the hour.",
+  "reference": "Matthew 25:1-13",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "ten_virgins"
+ },
+ {
+  "id": "ch-talents",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The parable of the talents",
+  "answer": "Chapter 25. Servants given five, two and one talent; the first two double theirs ('Well done, good and faithful servant'), the third buries his and is cast out.",
+  "reference": "Matthew 25:14-30",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "talents"
+ },
+ {
+  "id": "ch-final_judgment",
+  "type": "which_chapter",
+  "question": "Which chapter? (parable) The final judgment (the sheep and the goats)",
+  "answer": "Chapter 25. The Son of Man separates the nations as a shepherd separates sheep from goats: 'As you did it to one of the least of these my brothers, you did it to me.'",
+  "reference": "Matthew 25:31-46",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "final_judgment"
+ },
+ {
+  "id": "ch-plot_kill",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The plot to kill Jesus",
+  "answer": "Chapter 26. Two days before Passover the chief priests and elders gather at the palace of Caiaphas to arrest Jesus by stealth, 'but not during the feast.'",
+  "reference": "Matthew 26:1-5",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "plot_kill"
+ },
+ {
+  "id": "ch-anointing_bethany",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus anointed at Bethany",
+  "answer": "Chapter 26. At the house of Simon the leper a woman pours expensive ointment on his head; the disciples call it waste, but Jesus says she has prepared him for burial.",
+  "reference": "Matthew 26:6-13",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "anointing_bethany"
+ },
+ {
+  "id": "ch-judas_agrees",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Judas agrees to betray Jesus",
+  "answer": "Chapter 26. Judas Iscariot goes to the chief priests, who pay him thirty pieces of silver.",
+  "reference": "Matthew 26:14-16",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "judas_agrees"
+ },
+ {
+  "id": "ch-passover",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The Passover with the disciples (the betrayer foretold)",
+  "answer": "Chapter 26. The disciples prepare the Passover; at the meal Jesus says one of them will betray him. Judas asks 'Is it I, Rabbi?' and Jesus replies 'You have said so.'",
+  "reference": "Matthew 26:17-25",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "passover"
+ },
+ {
+  "id": "ch-lords_supper",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Institution of the Lord's Supper",
+  "answer": "Chapter 26. Jesus breaks bread ('this is my body') and gives the cup ('my blood of the covenant, poured out for many for the forgiveness of sins').",
+  "reference": "Matthew 26:26-29",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "lords_supper"
+ },
+ {
+  "id": "ch-denial_foretold",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus foretells Peter's denial",
+  "answer": "Chapter 26. After singing a hymn they go to the Mount of Olives; Jesus says all will fall away and Peter will deny him three times before the rooster crows.",
+  "reference": "Matthew 26:30-35",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "denial_foretold"
+ },
+ {
+  "id": "ch-gethsemane",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus prays in Gethsemane",
+  "answer": "Chapter 26. Jesus prays three times, 'let this cup pass from me; nevertheless, not as I will', while Peter, James and John fall asleep.",
+  "reference": "Matthew 26:36-46",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "gethsemane"
+ },
+ {
+  "id": "ch-arrest",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The betrayal and arrest of Jesus",
+  "answer": "Chapter 26. Judas betrays Jesus with a kiss; a disciple cuts off the high priest's servant's ear ('all who take the sword will perish by the sword'), and all the disciples flee.",
+  "reference": "Matthew 26:47-56",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "arrest"
+ },
+ {
+  "id": "ch-before_caiaphas",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus before Caiaphas and the council",
+  "answer": "Chapter 26. False witnesses testify; under oath Jesus says they will see the Son of Man seated at the right hand of Power. The high priest tears his robes; they spit on and strike him.",
+  "reference": "Matthew 26:57-68",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "before_caiaphas"
+ },
+ {
+  "id": "ch-peter_denies",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Peter denies Jesus",
+  "answer": "Chapter 26. In the courtyard Peter denies Jesus three times, the last with an oath; the rooster crows and he goes out and weeps bitterly.",
+  "reference": "Matthew 26:69-75",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "peter_denies"
+ },
+ {
+  "id": "ch-delivered_pilate",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus delivered to Pilate",
+  "answer": "Chapter 27. In the morning the chief priests and elders bind Jesus and hand him over to Pilate the governor.",
+  "reference": "Matthew 27:1-2",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "delivered_pilate"
+ },
+ {
+  "id": "ch-judas_hangs",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Judas hangs himself",
+  "answer": "Chapter 27. Judas regrets it, returns the thirty pieces of silver and hangs himself; the priests buy the potter's field (the Field of Blood) with the money.",
+  "reference": "Matthew 27:3-10",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "judas_hangs"
+ },
+ {
+  "id": "ch-before_pilate",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) Jesus before Pilate",
+  "answer": "Chapter 27. Pilate asks 'Are you the King of the Jews?' ('You have said so'); Jesus gives no answer to the accusations, and the governor marvels.",
+  "reference": "Matthew 27:11-14",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "before_pilate"
+ },
+ {
+  "id": "ch-barabbas",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The crowd chooses Barabbas",
+  "answer": "Chapter 27. Pilate offers to release Jesus or Barabbas; his wife warns him about a dream; the crowd cries 'Let him be crucified!' and Pilate washes his hands.",
+  "reference": "Matthew 27:15-26",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "barabbas"
+ },
+ {
+  "id": "ch-soldiers_mock",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The soldiers mock Jesus",
+  "answer": "Chapter 27. The soldiers put a scarlet robe and crown of thorns on him and mock him: 'Hail, King of the Jews!'",
+  "reference": "Matthew 27:27-31",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "soldiers_mock"
+ },
+ {
+  "id": "ch-crucifixion",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The crucifixion",
+  "answer": "Chapter 27. Simon of Cyrene carries the cross to Golgotha; the soldiers divide his garments, the sign reads 'This is Jesus, the King of the Jews', and passers-by, priests and robbers mock him.",
+  "reference": "Matthew 27:32-44",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "crucifixion"
+ },
+ {
+  "id": "ch-death_of_jesus",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The death of Jesus",
+  "answer": "Chapter 27. Darkness from the sixth to the ninth hour; Jesus cries 'Eli, Eli, lema sabachthani?' and dies. The temple curtain tears, the earth shakes, tombs open, and the centurion says 'Truly this was the Son of God!'",
+  "reference": "Matthew 27:45-56",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "death_of_jesus"
+ },
+ {
+  "id": "ch-burial",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The burial of Jesus",
+  "answer": "Chapter 27. Joseph of Arimathea, a rich disciple, asks Pilate for the body and lays it in his own new tomb, rolling a great stone to the door.",
+  "reference": "Matthew 27:57-61",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "burial"
+ },
+ {
+  "id": "ch-tomb_guard",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The guard at the tomb",
+  "answer": "Chapter 27. The chief priests and Pharisees fear the disciples will steal the body; Pilate gives them a guard, and they seal the stone.",
+  "reference": "Matthew 27:62-66",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "tomb_guard"
+ },
+ {
+  "id": "ch-resurrection",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The resurrection",
+  "answer": "Chapter 28. Mary Magdalene and the other Mary find an angel sitting on the rolled-back stone: 'He is not here, for he has risen.' The risen Jesus meets them on the way.",
+  "reference": "Matthew 28:1-10",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "resurrection"
+ },
+ {
+  "id": "ch-guards_report",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The report of the guard",
+  "answer": "Chapter 28. The chief priests bribe the soldiers to say the disciples stole the body while they slept, a story still told 'to this day'.",
+  "reference": "Matthew 28:11-15",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "guards_report"
+ },
+ {
+  "id": "ch-great_commission",
+  "type": "which_chapter",
+  "question": "Which chapter? (story) The Great Commission",
+  "answer": "Chapter 28. On a mountain in Galilee the risen Jesus tells the eleven: 'Go therefore and make disciples of all nations... I am with you always, to the end of the age.'",
+  "reference": "Matthew 28:16-20",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "great_commission"
+ },
+ {
+  "id": "who-q_joseph_angel",
+  "type": "who_said",
+  "question": "Who said: “Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.”",
+  "answer": "An angel of the Lord. Speaking to Joseph in a dream after he had resolved to divorce Mary quietly.",
+  "reference": "Matthew 1:20",
+  "chapter": 1,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_joseph_angel"
+ },
+ {
+  "id": "who-q_magi_where",
+  "type": "who_said",
+  "question": "Who said: “Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him.”",
+  "answer": "The wise men (Magi) from the east. Arriving in Jerusalem looking for the newborn king, which troubled Herod and all Jerusalem.",
+  "reference": "Matthew 2:2",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_magi_where"
+ },
+ {
+  "id": "who-q_herod_search",
+  "type": "who_said",
+  "question": "Who said: “Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him.”",
+  "answer": "King Herod. Secretly sending the wise men to Bethlehem; he actually intended to destroy the child.",
+  "reference": "Matthew 2:8",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_herod_search"
+ },
+ {
+  "id": "who-q_flee_egypt",
+  "type": "who_said",
+  "question": "Who said: “Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him.”",
+  "answer": "An angel of the Lord. Warning Joseph in a dream after the wise men left.",
+  "reference": "Matthew 2:13",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_flee_egypt"
+ },
+ {
+  "id": "who-q_repent",
+  "type": "who_said",
+  "question": "Who said: “Repent, for the kingdom of heaven is at hand.”",
+  "answer": "John the Baptist (Jesus later preaches the same words in 4:17). Preaching in the wilderness of Judea.",
+  "reference": "Matthew 3:2",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_repent"
+ },
+ {
+  "id": "who-q_brood",
+  "type": "who_said",
+  "question": "Who said: “You brood of vipers! Who warned you to flee from the wrath to come?”",
+  "answer": "John the Baptist. To the many Pharisees and Sadducees coming to his baptism; he tells them to bear fruit in keeping with repentance.",
+  "reference": "Matthew 3:7",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_brood"
+ },
+ {
+  "id": "who-q_john_need",
+  "type": "who_said",
+  "question": "Who said: “I need to be baptized by you, and do you come to me?”",
+  "answer": "John the Baptist. Trying to prevent Jesus from being baptized by him at the Jordan. Jesus replies, 'Let it be so now... to fulfill all righteousness.'",
+  "reference": "Matthew 3:14",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_john_need"
+ },
+ {
+  "id": "who-q_beloved_son",
+  "type": "who_said",
+  "question": "Who said: “This is my beloved Son, with whom I am well pleased.”",
+  "answer": "A voice from heaven (God the Father). At Jesus' baptism, as the Spirit of God descended like a dove. (At the Transfiguration the voice adds 'listen to him'.)",
+  "reference": "Matthew 3:17",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_beloved_son"
+ },
+ {
+  "id": "who-q_stones_bread",
+  "type": "who_said",
+  "question": "Who said: “If you are the Son of God, command these stones to become loaves of bread.”",
+  "answer": "The tempter (the devil). The first temptation, after Jesus had fasted forty days and forty nights in the wilderness.",
+  "reference": "Matthew 4:3",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_stones_bread"
+ },
+ {
+  "id": "who-q_worship_me",
+  "type": "who_said",
+  "question": "Who said: “All these I will give you, if you will fall down and worship me.”",
+  "answer": "The devil. The third temptation, on a very high mountain, showing Jesus all the kingdoms of the world. Jesus answers, 'Be gone, Satan!'",
+  "reference": "Matthew 4:9",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_worship_me"
+ },
+ {
+  "id": "ctx-q_fishers",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Follow me, and I will make you fishers of men.”",
+  "answer": "Calling Simon Peter and Andrew as they cast a net into the Sea of Galilee. (Chapter 4)",
+  "reference": "Matthew 4:19",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "q_fishers"
+ },
+ {
+  "id": "who-q_leper",
+  "type": "who_said",
+  "question": "Who said: “Lord, if you will, you can make me clean.”",
+  "answer": "A leper. Kneeling before Jesus as he came down from the mountain after the Sermon on the Mount.",
+  "reference": "Matthew 8:2",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_leper"
+ },
+ {
+  "id": "who-q_centurion",
+  "type": "who_said",
+  "question": "Who said: “Lord, I am not worthy to have you come under my roof, but only say the word, and my servant will be healed.”",
+  "answer": "A centurion in Capernaum. Asking Jesus to heal his paralyzed servant, explaining that he too is a man under authority.",
+  "reference": "Matthew 8:8",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_centurion"
+ },
+ {
+  "id": "ctx-q_such_faith",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Truly, I tell you, with no one in Israel have I found such faith.”",
+  "answer": "Marveling at the centurion who asked him only to say the word to heal his servant. (Chapter 8)",
+  "reference": "Matthew 8:10",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_such_faith"
+ },
+ {
+  "id": "ctx-q_foxes",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head.”",
+  "answer": "Answering a scribe who said, 'Teacher, I will follow you wherever you go.' (Chapter 8)",
+  "reference": "Matthew 8:20",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_foxes"
+ },
+ {
+  "id": "ctx-q_dead_bury",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Follow me, and leave the dead to bury their own dead.”",
+  "answer": "To a disciple who asked to first go and bury his father. (Chapter 8)",
+  "reference": "Matthew 8:22",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_dead_bury"
+ },
+ {
+  "id": "who-q_save_perishing",
+  "type": "who_said",
+  "question": "Who said: “Save us, Lord; we are perishing.”",
+  "answer": "The disciples. Waking Jesus, who was asleep in the boat during a great storm on the sea.",
+  "reference": "Matthew 8:25",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_save_perishing"
+ },
+ {
+  "id": "who-q_winds_obey",
+  "type": "who_said",
+  "question": "Who said: “What sort of man is this, that even winds and sea obey him?”",
+  "answer": "The disciples (the men in the boat). After Jesus rebuked the winds and the sea and there was a great calm.",
+  "reference": "Matthew 8:27",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_winds_obey"
+ },
+ {
+  "id": "who-q_torment",
+  "type": "who_said",
+  "question": "Who said: “What have you to do with us, O Son of God? Have you come here to torment us before the time?”",
+  "answer": "The two demon-possessed men. Meeting Jesus in the country of the Gadarenes; the demons then beg to be sent into the herd of pigs.",
+  "reference": "Matthew 8:29",
+  "chapter": 8,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_torment"
+ },
+ {
+  "id": "ctx-q_take_heart_sins",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Take heart, my son; your sins are forgiven.”",
+  "answer": "To a paralytic brought to him on a bed; some scribes thought, 'This man is blaspheming.' (Chapter 9)",
+  "reference": "Matthew 9:2",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_take_heart_sins"
+ },
+ {
+  "id": "who-q_why_eat_sinners",
+  "type": "who_said",
+  "question": "Who said: “Why does your teacher eat with tax collectors and sinners?”",
+  "answer": "The Pharisees. Asking Jesus' disciples while Jesus reclined at table in Matthew's house.",
+  "reference": "Matthew 9:11",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_why_eat_sinners"
+ },
+ {
+  "id": "ctx-q_physician",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Those who are well have no need of a physician, but those who are sick... I desire mercy, and not sacrifice.”",
+  "answer": "Answering the Pharisees who objected to him eating with tax collectors and sinners at Matthew's house. (Chapter 9)",
+  "reference": "Matthew 9:12-13",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_physician"
+ },
+ {
+  "id": "who-q_why_not_fast",
+  "type": "who_said",
+  "question": "Who said: “Why do we and the Pharisees fast, but your disciples do not fast?”",
+  "answer": "The disciples of John the Baptist. Jesus answers that the wedding guests cannot mourn while the bridegroom is with them.",
+  "reference": "Matthew 9:14",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_why_not_fast"
+ },
+ {
+  "id": "who-q_touch_garment",
+  "type": "who_said",
+  "question": "Who said: “If I only touch his garment, I will be made well.”",
+  "answer": "A woman who had suffered from a discharge of blood for twelve years. Said to herself as she came up behind Jesus, on his way to the ruler's house, and touched the fringe of his garment.",
+  "reference": "Matthew 9:21",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_touch_garment"
+ },
+ {
+  "id": "ctx-q_not_dead_sleeping",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Go away, for the girl is not dead but sleeping.”",
+  "answer": "At the ruler's house among the flute players and the noisy crowd, who laughed at him. He then took the girl by the hand and she arose. (Chapter 9)",
+  "reference": "Matthew 9:24",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "q_not_dead_sleeping"
+ },
+ {
+  "id": "who-q_one_to_come",
+  "type": "who_said",
+  "question": "Who said: “Are you the one who is to come, or shall we look for another?”",
+  "answer": "John the Baptist (through his disciples). Sent from prison after hearing about the deeds of the Christ.",
+  "reference": "Matthew 11:3",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_one_to_come"
+ },
+ {
+  "id": "who-q_sabbath_lawful",
+  "type": "who_said",
+  "question": "Who said: “Look, your disciples are doing what is not lawful to do on the Sabbath.”",
+  "answer": "The Pharisees. When the hungry disciples plucked heads of grain in the grainfields on the Sabbath.",
+  "reference": "Matthew 12:2",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_sabbath_lawful"
+ },
+ {
+  "id": "who-q_son_of_david_12",
+  "type": "who_said",
+  "question": "Who said: “Can this be the Son of David?”",
+  "answer": "The crowds. Amazed after Jesus healed a blind and mute demon-oppressed man. The Pharisees responded that he cast out demons by Beelzebul.",
+  "reference": "Matthew 12:23",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_son_of_david_12"
+ },
+ {
+  "id": "who-q_beelzebul",
+  "type": "who_said",
+  "question": "Who said: “It is only by Beelzebul, the prince of demons, that this man casts out demons.”",
+  "answer": "The Pharisees. After Jesus healed a blind and mute demon-oppressed man; Jesus answers that a house divided against itself will not stand.",
+  "reference": "Matthew 12:24",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_beelzebul"
+ },
+ {
+  "id": "who-q_see_sign",
+  "type": "who_said",
+  "question": "Who said: “Teacher, we wish to see a sign from you.”",
+  "answer": "Some of the scribes and Pharisees. Jesus answers that no sign will be given to this evil and adulterous generation except the sign of the prophet Jonah.",
+  "reference": "Matthew 12:38",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_see_sign"
+ },
+ {
+  "id": "ctx-q_who_mother",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Who is my mother, and who are my brothers?”",
+  "answer": "When told his mother and brothers were standing outside asking to speak to him; he pointed to his disciples. (Chapter 12)",
+  "reference": "Matthew 12:48",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_who_mother"
+ },
+ {
+  "id": "who-q_why_parables",
+  "type": "who_said",
+  "question": "Who said: “Why do you speak to them in parables?”",
+  "answer": "The disciples. After the parable of the sower; Jesus says the secrets of the kingdom have been given to them but not to the crowds.",
+  "reference": "Matthew 13:10",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_why_parables"
+ },
+ {
+  "id": "who-q_enemy_done",
+  "type": "who_said",
+  "question": "Who said: “Master, did you not sow good seed in your field? How then does it have weeds? ... An enemy has done this.”",
+  "answer": "The servants, then the master of the house (in the parable of the weeds). In the parable, when the weeds appeared among the wheat. The master tells them to let both grow until the harvest.",
+  "reference": "Matthew 13:27-28",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_enemy_done"
+ },
+ {
+  "id": "who-q_carpenters_son",
+  "type": "who_said",
+  "question": "Who said: “Is not this the carpenter's son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas?”",
+  "answer": "The people of Nazareth (Jesus' hometown synagogue). Astonished and offended by his teaching. Jesus replies that a prophet is not without honor except in his hometown.",
+  "reference": "Matthew 13:55",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "q_carpenters_son"
+ },
+ {
+  "id": "who-q_john_raised",
+  "type": "who_said",
+  "question": "Who said: “This is John the Baptist. He has been raised from the dead; that is why these miraculous powers are at work in him.”",
+  "answer": "Herod the tetrarch (Herod Antipas). Saying to his servants after hearing about the fame of Jesus, having already beheaded John.",
+  "reference": "Matthew 14:2",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_john_raised"
+ },
+ {
+  "id": "who-q_not_lawful_her",
+  "type": "who_said",
+  "question": "Who said: “It is not lawful for you to have her.”",
+  "answer": "John the Baptist. Rebuking Herod the tetrarch for taking Herodias, his brother Philip's wife, which led to John's imprisonment.",
+  "reference": "Matthew 14:4",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_not_lawful_her"
+ },
+ {
+  "id": "who-q_head_platter",
+  "type": "who_said",
+  "question": "Who said: “Give me the head of John the Baptist here on a platter.”",
+  "answer": "The daughter of Herodias. Prompted by her mother, after her dance pleased Herod at his birthday and he promised with an oath to give her whatever she asked.",
+  "reference": "Matthew 14:8",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_head_platter"
+ },
+ {
+  "id": "who-q_five_loaves",
+  "type": "who_said",
+  "question": "Who said: “We have only five loaves here and two fish.”",
+  "answer": "The disciples. When Jesus told them, 'You give them something to eat' before feeding the five thousand.",
+  "reference": "Matthew 14:17",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_five_loaves"
+ },
+ {
+  "id": "ctx-q_it_is_i",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Take heart; it is I. Do not be afraid.”",
+  "answer": "Walking on the sea toward the disciples' boat in the fourth watch of the night; they thought he was a ghost. (Chapter 14)",
+  "reference": "Matthew 14:27",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_it_is_i"
+ },
+ {
+  "id": "who-q_command_me",
+  "type": "who_said",
+  "question": "Who said: “Lord, if it is you, command me to come to you on the water.”",
+  "answer": "Peter. When Jesus came walking on the sea. Peter walked on the water, then began to sink when he saw the wind and cried, 'Lord, save me.'",
+  "reference": "Matthew 14:28",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_command_me"
+ },
+ {
+  "id": "ctx-q_little_faith_doubt",
+  "type": "context",
+  "question": "What was the context? Jesus said: “O you of little faith, why did you doubt?”",
+  "answer": "Catching Peter, who had begun to sink while walking on the water. (Chapter 14)",
+  "reference": "Matthew 14:31",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_little_faith_doubt"
+ },
+ {
+  "id": "who-q_truly_son_14",
+  "type": "who_said",
+  "question": "Who said: “Truly you are the Son of God.”",
+  "answer": "The disciples in the boat. Worshiping Jesus after he and Peter got into the boat and the wind ceased.",
+  "reference": "Matthew 14:33",
+  "chapter": 14,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_truly_son_14"
+ },
+ {
+  "id": "who-q_tradition_elders",
+  "type": "who_said",
+  "question": "Who said: “Why do your disciples break the tradition of the elders? For they do not wash their hands when they eat.”",
+  "answer": "Pharisees and scribes from Jerusalem. Jesus answers by asking why they break the commandment of God (honor your father and mother) for the sake of their tradition.",
+  "reference": "Matthew 15:2",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_tradition_elders"
+ },
+ {
+  "id": "who-q_send_her_away",
+  "type": "who_said",
+  "question": "Who said: “Send her away, for she is crying out after us.”",
+  "answer": "The disciples. About the Canaanite woman in the district of Tyre and Sidon who begged Jesus to heal her daughter.",
+  "reference": "Matthew 15:23",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_send_her_away"
+ },
+ {
+  "id": "who-q_crumbs",
+  "type": "who_said",
+  "question": "Who said: “Yes, Lord, yet even the dogs eat the crumbs that fall from their masters' table.”",
+  "answer": "The Canaanite woman. Answering Jesus' saying that it is not right to take the children's bread and throw it to the dogs. He praises her great faith and heals her daughter.",
+  "reference": "Matthew 15:27",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_crumbs"
+ },
+ {
+  "id": "ctx-q_who_do_people_say",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Who do people say that the Son of Man is?”",
+  "answer": "To his disciples in the district of Caesarea Philippi; they answer John the Baptist, Elijah, Jeremiah or one of the prophets. Then he asks, 'But who do you say that I am?' (Chapter 16)",
+  "reference": "Matthew 16:13",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_who_do_people_say"
+ },
+ {
+  "id": "who-q_you_are_christ",
+  "type": "who_said",
+  "question": "Who said: “You are the Christ, the Son of the living God.”",
+  "answer": "Simon Peter. Answering Jesus' question 'But who do you say that I am?' at Caesarea Philippi.",
+  "reference": "Matthew 16:16",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_you_are_christ"
+ },
+ {
+  "id": "ctx-q_this_rock",
+  "type": "context",
+  "question": "What was the context? Jesus said: “And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.”",
+  "answer": "Responding to Peter's confession that he is the Christ at Caesarea Philippi. (Chapter 16)",
+  "reference": "Matthew 16:18",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_this_rock"
+ },
+ {
+  "id": "who-q_far_be_it",
+  "type": "who_said",
+  "question": "Who said: “Far be it from you, Lord! This shall never happen to you.”",
+  "answer": "Peter. Rebuking Jesus after he first foretold that he must suffer, be killed and be raised.",
+  "reference": "Matthew 16:22",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_far_be_it"
+ },
+ {
+  "id": "ctx-q_get_behind",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Get behind me, Satan! You are a hindrance to me. For you are not setting your mind on the things of God, but on the things of man.”",
+  "answer": "To Peter, who had rebuked him for saying he must suffer and be killed. (Chapter 16)",
+  "reference": "Matthew 16:23",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_get_behind"
+ },
+ {
+  "id": "who-q_three_tents",
+  "type": "who_said",
+  "question": "Who said: “Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah.”",
+  "answer": "Peter. At the Transfiguration, when Moses and Elijah appeared talking with Jesus.",
+  "reference": "Matthew 17:4",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_three_tents"
+ },
+ {
+  "id": "who-q_listen_to_him",
+  "type": "who_said",
+  "question": "Who said: “This is my beloved Son, with whom I am well pleased; listen to him.”",
+  "answer": "A voice from the bright cloud (God the Father). At the Transfiguration, while Peter was still speaking about making three tents. (Unlike at the baptism, this one adds 'listen to him'.)",
+  "reference": "Matthew 17:5",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_listen_to_him"
+ },
+ {
+  "id": "who-q_why_not_cast",
+  "type": "who_said",
+  "question": "Who said: “Why could we not cast it out?”",
+  "answer": "The disciples. After Jesus healed the epileptic boy they had failed to heal. Jesus says it was their little faith; faith like a mustard seed can move a mountain.",
+  "reference": "Matthew 17:19",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_why_not_cast"
+ },
+ {
+  "id": "who-q_temple_tax",
+  "type": "who_said",
+  "question": "Who said: “Does your teacher not pay the tax?”",
+  "answer": "The collectors of the two-drachma tax. Asking Peter in Capernaum. Jesus later sends Peter to find a shekel in a fish's mouth.",
+  "reference": "Matthew 17:24",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_temple_tax"
+ },
+ {
+  "id": "who-q_who_greatest",
+  "type": "who_said",
+  "question": "Who said: “Who is the greatest in the kingdom of heaven?”",
+  "answer": "The disciples. Jesus calls a child to him and says that unless they turn and become like children they will never enter the kingdom.",
+  "reference": "Matthew 18:1",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_who_greatest"
+ },
+ {
+  "id": "who-q_how_often_forgive",
+  "type": "who_said",
+  "question": "Who said: “Lord, how often will my brother sin against me, and I forgive him? As many as seven times?”",
+  "answer": "Peter. Jesus answers 'seventy-seven times' and tells the parable of the unforgiving servant.",
+  "reference": "Matthew 18:21",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_how_often_forgive"
+ },
+ {
+  "id": "who-q_have_patience",
+  "type": "who_said",
+  "question": "Who said: “Have patience with me, and I will pay you everything.”",
+  "answer": "The servant who owed ten thousand talents (and later his fellow servant, with nearly the same words). In the parable of the unforgiving servant, begging the king not to sell him and his family.",
+  "reference": "Matthew 18:26",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_have_patience"
+ },
+ {
+  "id": "who-q_any_cause",
+  "type": "who_said",
+  "question": "Who said: “Is it lawful to divorce one's wife for any cause?”",
+  "answer": "The Pharisees. Testing Jesus in the region of Judea beyond the Jordan.",
+  "reference": "Matthew 19:3",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_any_cause"
+ },
+ {
+  "id": "who-q_better_not_marry",
+  "type": "who_said",
+  "question": "Who said: “If such is the case of a man with his wife, it is better not to marry.”",
+  "answer": "The disciples. Reacting to Jesus' teaching on divorce; he responds about those who are eunuchs for the sake of the kingdom.",
+  "reference": "Matthew 19:10",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_better_not_marry"
+ },
+ {
+  "id": "who-q_good_deed",
+  "type": "who_said",
+  "question": "Who said: “Teacher, what good deed must I do to have eternal life?”",
+  "answer": "The rich young man. Jesus tells him to keep the commandments, then to sell what he possesses and follow him.",
+  "reference": "Matthew 19:16",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_good_deed"
+ },
+ {
+  "id": "who-q_what_lack",
+  "type": "who_said",
+  "question": "Who said: “All these I have kept. What do I still lack?”",
+  "answer": "The rich young man. After Jesus listed commandments such as do not murder, honor your father and mother, and love your neighbor as yourself.",
+  "reference": "Matthew 19:20",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_what_lack"
+ },
+ {
+  "id": "who-q_who_saved",
+  "type": "who_said",
+  "question": "Who said: “Who then can be saved?”",
+  "answer": "The disciples. Astonished after Jesus said it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom.",
+  "reference": "Matthew 19:25",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_who_saved"
+ },
+ {
+  "id": "who-q_left_everything",
+  "type": "who_said",
+  "question": "Who said: “See, we have left everything and followed you. What then will we have?”",
+  "answer": "Peter. After the rich young man went away sorrowful. Jesus promises the twelve will sit on twelve thrones judging Israel.",
+  "reference": "Matthew 19:27",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_left_everything"
+ },
+ {
+  "id": "who-q_equal_to_us",
+  "type": "who_said",
+  "question": "Who said: “These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.”",
+  "answer": "The laborers hired first (in the parable). Grumbling at the master of the house when everyone was paid a denarius.",
+  "reference": "Matthew 20:12",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_equal_to_us"
+ },
+ {
+  "id": "who-q_right_left",
+  "type": "who_said",
+  "question": "Who said: “Say that these two sons of mine are to sit, one at your right hand and one at your left, in your kingdom.”",
+  "answer": "The mother of the sons of Zebedee (James and John). Kneeling before Jesus on the way up to Jerusalem; the other ten were indignant.",
+  "reference": "Matthew 20:21",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_right_left"
+ },
+ {
+  "id": "ctx-q_ransom",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”",
+  "answer": "To the twelve, after the ten were indignant at James and John's mother's request for places of honor. (Chapter 20)",
+  "reference": "Matthew 20:28",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_ransom"
+ },
+ {
+  "id": "who-q_blind_jericho",
+  "type": "who_said",
+  "question": "Who said: “Lord, have mercy on us, Son of David!”",
+  "answer": "Two blind men sitting by the roadside. As Jesus left Jericho; the crowd rebuked them, but they cried out all the more. (Two other blind men cry nearly the same in 9:27.)",
+  "reference": "Matthew 20:30",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_blind_jericho"
+ },
+ {
+  "id": "who-q_hosanna",
+  "type": "who_said",
+  "question": "Who said: “Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”",
+  "answer": "The crowds. Going before and following Jesus as he rode into Jerusalem on a donkey.",
+  "reference": "Matthew 21:9",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_hosanna"
+ },
+ {
+  "id": "who-q_prophet_nazareth",
+  "type": "who_said",
+  "question": "Who said: “This is the prophet Jesus, from Nazareth of Galilee.”",
+  "answer": "The crowds. Answering 'Who is this?' as the whole city of Jerusalem was stirred up at the triumphal entry.",
+  "reference": "Matthew 21:11",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_prophet_nazareth"
+ },
+ {
+  "id": "ctx-q_den_robbers",
+  "type": "context",
+  "question": "What was the context? Jesus said: “It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers.”",
+  "answer": "Driving out those who bought and sold in the temple and overturning the money-changers' tables. (Chapter 21)",
+  "reference": "Matthew 21:13",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_den_robbers"
+ },
+ {
+  "id": "who-q_do_you_hear",
+  "type": "who_said",
+  "question": "Who said: “Do you hear what these are saying?”",
+  "answer": "The chief priests and the scribes. Indignant at children crying 'Hosanna to the Son of David!' in the temple. Jesus quotes 'Out of the mouth of infants and nursing babies you have prepared praise.'",
+  "reference": "Matthew 21:16",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_do_you_hear"
+ },
+ {
+  "id": "ctx-q_no_fruit",
+  "type": "context",
+  "question": "What was the context? Jesus said: “May no fruit ever come from you again!”",
+  "answer": "To a fig tree by the road with nothing on it but leaves, as he returned to Jerusalem hungry in the morning. It withered at once. (Chapter 21)",
+  "reference": "Matthew 21:19",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_no_fruit"
+ },
+ {
+  "id": "who-q_by_what_authority",
+  "type": "who_said",
+  "question": "Who said: “By what authority are you doing these things, and who gave you this authority?”",
+  "answer": "The chief priests and the elders of the people. Confronting Jesus while he taught in the temple. He answers with a question about John's baptism.",
+  "reference": "Matthew 21:23",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_by_what_authority"
+ },
+ {
+  "id": "who-q_i_go_sir",
+  "type": "who_said",
+  "question": "Who said: “I go, sir.”",
+  "answer": "The second son (in the parable of the two sons). Told by his father to work in the vineyard; he said this but did not go.",
+  "reference": "Matthew 21:30",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_i_go_sir"
+ },
+ {
+  "id": "who-q_respect_son",
+  "type": "who_said",
+  "question": "Who said: “They will respect my son... This is the heir. Come, let us kill him and have his inheritance.”",
+  "answer": "The master of the vineyard, then the wicked tenants (in the parable). After the tenants had beaten, killed and stoned the servants sent to collect the fruit.",
+  "reference": "Matthew 21:37-38",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_respect_son"
+ },
+ {
+  "id": "ctx-q_cornerstone",
+  "type": "context",
+  "question": "What was the context? Jesus (quoting Psalm 118) said: “The stone that the builders rejected has become the cornerstone; this was the Lord's doing, and it is marvelous in our eyes.”",
+  "answer": "To the chief priests and elders after the parable of the wicked tenants. (Chapter 21)",
+  "reference": "Matthew 21:42",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_cornerstone"
+ },
+ {
+  "id": "who-q_wedding_garment",
+  "type": "who_said",
+  "question": "Who said: “Friend, how did you get in here without a wedding garment?”",
+  "answer": "The king (in the parable of the wedding feast). To a guest gathered from the roads who was not dressed for the feast; he is bound and cast into the outer darkness.",
+  "reference": "Matthew 22:12",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_wedding_garment"
+ },
+ {
+  "id": "who-q_taxes_lawful",
+  "type": "who_said",
+  "question": "Who said: “Tell us, then, what you think. Is it lawful to pay taxes to Caesar, or not?”",
+  "answer": "Disciples of the Pharisees, along with the Herodians. Trying to entangle Jesus in his words after flattering him as true and impartial.",
+  "reference": "Matthew 22:17",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_taxes_lawful"
+ },
+ {
+  "id": "ctx-q_render",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Therefore render to Caesar the things that are Caesar's, and to God the things that are God's.”",
+  "answer": "After asking whose likeness and inscription was on the denarius used for the tax. (Chapter 22)",
+  "reference": "Matthew 22:21",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_render"
+ },
+ {
+  "id": "who-q_whose_wife",
+  "type": "who_said",
+  "question": "Who said: “In the resurrection, therefore, of the seven, whose wife will she be? For they all had her.”",
+  "answer": "The Sadducees, who say there is no resurrection. Testing Jesus with a woman who married seven brothers in turn.",
+  "reference": "Matthew 22:28",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_whose_wife"
+ },
+ {
+  "id": "ctx-q_you_are_wrong",
+  "type": "context",
+  "question": "What was the context? Jesus said: “You are wrong, because you know neither the Scriptures nor the power of God.”",
+  "answer": "Answering the Sadducees' question about the woman married to seven brothers. (Chapter 22)",
+  "reference": "Matthew 22:29",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_you_are_wrong"
+ },
+ {
+  "id": "who-q_great_commandment",
+  "type": "who_said",
+  "question": "Who said: “Teacher, which is the great commandment in the Law?”",
+  "answer": "A lawyer (one of the Pharisees). Testing Jesus after he had silenced the Sadducees.",
+  "reference": "Matthew 22:36",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_great_commandment"
+ },
+ {
+  "id": "ctx-q_lord_said_lord",
+  "type": "context",
+  "question": "What was the context? Jesus (quoting David in Psalm 110) said: “The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.”",
+  "answer": "Asking the Pharisees how the Christ can be David's son if David calls him Lord. No one could answer. (Chapter 22)",
+  "reference": "Matthew 22:44",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_lord_said_lord"
+ },
+ {
+  "id": "ctx-q_gnat_camel",
+  "type": "context",
+  "question": "What was the context? Jesus said: “You blind guides, straining out a gnat and swallowing a camel!”",
+  "answer": "One of the woes against the scribes and Pharisees, who tithe mint, dill and cumin but neglect justice, mercy and faithfulness. (Chapter 23)",
+  "reference": "Matthew 23:24",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_gnat_camel"
+ },
+ {
+  "id": "ctx-q_hen_brood",
+  "type": "context",
+  "question": "What was the context? Jesus said: “O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!”",
+  "answer": "Lamenting over Jerusalem at the end of the woes against the scribes and Pharisees. (Chapter 23)",
+  "reference": "Matthew 23:37",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "q_hen_brood"
+ },
+ {
+  "id": "ctx-q_one_stone",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Truly, I say to you, there will not be left here one stone upon another that will not be thrown down.”",
+  "answer": "As the disciples pointed out the buildings of the temple. (Chapter 24)",
+  "reference": "Matthew 24:2",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "q_one_stone"
+ },
+ {
+  "id": "who-q_when_sign",
+  "type": "who_said",
+  "question": "Who said: “Tell us, when will these things be, and what will be the sign of your coming and of the close of the age?”",
+  "answer": "The disciples. Asking Jesus privately as he sat on the Mount of Olives, which began the Olivet Discourse.",
+  "reference": "Matthew 24:3",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "q_when_sign"
+ },
+ {
+  "id": "who-q_bridegroom",
+  "type": "who_said",
+  "question": "Who said: “Here is the bridegroom! Come out to meet him.”",
+  "answer": "A cry at midnight (in the parable of the ten virgins). When the delayed bridegroom finally came and the virgins trimmed their lamps.",
+  "reference": "Matthew 25:6",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_bridegroom"
+ },
+ {
+  "id": "who-q_give_oil",
+  "type": "who_said",
+  "question": "Who said: “Give us some of your oil, for our lamps are going out.”",
+  "answer": "The five foolish virgins. To the wise virgins when the bridegroom arrived at midnight.",
+  "reference": "Matthew 25:8",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_give_oil"
+ },
+ {
+  "id": "who-q_well_done",
+  "type": "who_said",
+  "question": "Who said: “Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.”",
+  "answer": "The master (in the parable of the talents). To the servant who turned five talents into ten (and the same to the one who turned two into four).",
+  "reference": "Matthew 25:21",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_well_done"
+ },
+ {
+  "id": "who-q_hard_man",
+  "type": "who_said",
+  "question": "Who said: “Master, I knew you to be a hard man, reaping where you did not sow, and gathering where you scattered no seed, so I was afraid, and I went and hid your talent in the ground.”",
+  "answer": "The servant who had received one talent. Settling accounts with his master; he is called wicked and slothful and cast into the outer darkness.",
+  "reference": "Matthew 25:24-25",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_hard_man"
+ },
+ {
+  "id": "who-q_least_of_these",
+  "type": "who_said",
+  "question": "Who said: “Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.”",
+  "answer": "The King (the Son of Man). In the final judgment, to the sheep on his right hand who fed, welcomed, clothed and visited him.",
+  "reference": "Matthew 25:40",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_least_of_these"
+ },
+ {
+  "id": "who-q_not_during_feast",
+  "type": "who_said",
+  "question": "Who said: “Not during the feast, lest there be an uproar among the people.”",
+  "answer": "The chief priests and the elders. Plotting in the palace of Caiaphas to arrest Jesus by stealth and kill him.",
+  "reference": "Matthew 26:5",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_not_during_feast"
+ },
+ {
+  "id": "who-q_why_waste",
+  "type": "who_said",
+  "question": "Who said: “Why this waste? For this could have been sold for a large sum and given to the poor.”",
+  "answer": "The disciples. Indignant when a woman poured very expensive ointment on Jesus' head at Simon the leper's house in Bethany.",
+  "reference": "Matthew 26:8-9",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_why_waste"
+ },
+ {
+  "id": "who-q_what_give_me",
+  "type": "who_said",
+  "question": "Who said: “What will you give me if I deliver him over to you?”",
+  "answer": "Judas Iscariot. To the chief priests, who paid him thirty pieces of silver.",
+  "reference": "Matthew 26:15",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_what_give_me"
+ },
+ {
+  "id": "who-q_is_it_i",
+  "type": "who_said",
+  "question": "Who said: “Is it I, Rabbi?”",
+  "answer": "Judas Iscariot. At the Passover meal after Jesus said one of the twelve would betray him. Jesus answered, 'You have said so.'",
+  "reference": "Matthew 26:25",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_is_it_i"
+ },
+ {
+  "id": "who-q_never_fall_away",
+  "type": "who_said",
+  "question": "Who said: “Though they all fall away because of you, I will never fall away.”",
+  "answer": "Peter. On the way to the Mount of Olives, after Jesus said all would fall away that night. Jesus foretold he would deny him three times.",
+  "reference": "Matthew 26:33",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_never_fall_away"
+ },
+ {
+  "id": "ctx-q_this_cup",
+  "type": "context",
+  "question": "What was the context? Jesus said: “My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.”",
+  "answer": "Praying in Gethsemane with his face on the ground, the first of three prayers. (Chapter 26)",
+  "reference": "Matthew 26:39",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_this_cup"
+ },
+ {
+  "id": "ctx-q_one_hour",
+  "type": "context",
+  "question": "What was the context? Jesus said: “So, could you not watch with me one hour?”",
+  "answer": "To Peter, on finding the disciples asleep in Gethsemane. (Chapter 26)",
+  "reference": "Matthew 26:40",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_one_hour"
+ },
+ {
+  "id": "who-q_kiss_sign",
+  "type": "who_said",
+  "question": "Who said: “The one I will kiss is the man; seize him.”",
+  "answer": "Judas Iscariot (the betrayer). The sign he gave the crowd with swords and clubs sent by the chief priests. He then said 'Greetings, Rabbi!' and kissed Jesus.",
+  "reference": "Matthew 26:48",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_kiss_sign"
+ },
+ {
+  "id": "ctx-q_do_what_came",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Friend, do what you came to do.”",
+  "answer": "To Judas, after Judas greeted and kissed him in Gethsemane. (Chapter 26)",
+  "reference": "Matthew 26:50",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_do_what_came"
+ },
+ {
+  "id": "ctx-q_sword",
+  "type": "context",
+  "question": "What was the context? Jesus said: “Put your sword back into its place. For all who take the sword will perish by the sword.”",
+  "answer": "After one of his disciples cut off the ear of the high priest's servant at the arrest. (Chapter 26)",
+  "reference": "Matthew 26:52",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_sword"
+ },
+ {
+  "id": "who-q_adjure",
+  "type": "who_said",
+  "question": "Who said: “I adjure you by the living God, tell us if you are the Christ, the Son of God.”",
+  "answer": "The high priest (Caiaphas). At Jesus' trial before the council, after Jesus stayed silent at the false testimony.",
+  "reference": "Matthew 26:63",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_adjure"
+ },
+ {
+  "id": "who-q_blasphemy",
+  "type": "who_said",
+  "question": "Who said: “He has uttered blasphemy. What further witnesses do we need?”",
+  "answer": "The high priest (Caiaphas). Tearing his robes after Jesus said they would see the Son of Man seated at the right hand of Power.",
+  "reference": "Matthew 26:65",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_blasphemy"
+ },
+ {
+  "id": "who-q_prophesy",
+  "type": "who_said",
+  "question": "Who said: “Prophesy to us, you Christ! Who is it that struck you?”",
+  "answer": "Members of the council and those with them. Mocking Jesus while spitting on him and striking him after he was condemned.",
+  "reference": "Matthew 26:68",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_prophesy"
+ },
+ {
+  "id": "who-q_galilean",
+  "type": "who_said",
+  "question": "Who said: “You also were with Jesus the Galilean.”",
+  "answer": "A servant girl. To Peter as he sat outside in the courtyard of the high priest; the first of his three denials followed.",
+  "reference": "Matthew 26:69",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_galilean"
+ },
+ {
+  "id": "who-q_accent",
+  "type": "who_said",
+  "question": "Who said: “Certainly you too are one of them, for your accent betrays you.”",
+  "answer": "The bystanders. To Peter in the high priest's courtyard, leading to his third denial and the rooster crowing.",
+  "reference": "Matthew 26:73",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_accent"
+ },
+ {
+  "id": "who-q_know_man",
+  "type": "who_said",
+  "question": "Who said: “I do not know the man.”",
+  "answer": "Peter. His third denial, with cursing and swearing, in the high priest's courtyard; immediately the rooster crowed.",
+  "reference": "Matthew 26:74",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_know_man"
+ },
+ {
+  "id": "who-q_innocent_blood",
+  "type": "who_said",
+  "question": "Who said: “I have sinned by betraying innocent blood.”",
+  "answer": "Judas Iscariot. Bringing back the thirty pieces of silver after Jesus was condemned. The chief priests replied, 'What is that to us? See to it yourself.'",
+  "reference": "Matthew 27:4",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_innocent_blood"
+ },
+ {
+  "id": "who-q_king_jews",
+  "type": "who_said",
+  "question": "Who said: “Are you the King of the Jews?”",
+  "answer": "Pontius Pilate, the governor. Questioning Jesus; Jesus answered, 'You have said so,' and gave no answer to the chief priests' accusations.",
+  "reference": "Matthew 27:11",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_king_jews"
+ },
+ {
+  "id": "who-q_dream_wife",
+  "type": "who_said",
+  "question": "Who said: “Have nothing to do with that righteous man, for I have suffered much because of him today in a dream.”",
+  "answer": "Pilate's wife. A message sent to Pilate while he was sitting on the judgment seat, deciding between Jesus and Barabbas.",
+  "reference": "Matthew 27:19",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_dream_wife"
+ },
+ {
+  "id": "who-q_crucified",
+  "type": "who_said",
+  "question": "Who said: “Let him be crucified!”",
+  "answer": "The crowd. When Pilate asked, 'Then what shall I do with Jesus who is called Christ?' after they chose Barabbas.",
+  "reference": "Matthew 27:22",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_crucified"
+ },
+ {
+  "id": "who-q_innocent_hands",
+  "type": "who_said",
+  "question": "Who said: “I am innocent of this man's blood; see to it yourselves.”",
+  "answer": "Pontius Pilate. Washing his hands before the crowd when he saw a riot was beginning.",
+  "reference": "Matthew 27:24",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_innocent_hands"
+ },
+ {
+  "id": "who-q_blood_on_us",
+  "type": "who_said",
+  "question": "Who said: “His blood be on us and on our children!”",
+  "answer": "All the people (the crowd). Responding to Pilate after he washed his hands of Jesus' blood.",
+  "reference": "Matthew 27:25",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_blood_on_us"
+ },
+ {
+  "id": "who-q_hail_king",
+  "type": "who_said",
+  "question": "Who said: “Hail, King of the Jews!”",
+  "answer": "The governor's soldiers. Mocking Jesus in the governor's headquarters after dressing him in a scarlet robe with a crown of thorns and a reed.",
+  "reference": "Matthew 27:29",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_hail_king"
+ },
+ {
+  "id": "who-q_saved_others",
+  "type": "who_said",
+  "question": "Who said: “He saved others; he cannot save himself. He is the King of Israel; let him come down now from the cross, and we will believe in him.”",
+  "answer": "The chief priests, with the scribes and elders. Mocking Jesus as he hung on the cross at Golgotha.",
+  "reference": "Matthew 27:42",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_saved_others"
+ },
+ {
+  "id": "ctx-q_eli_eli",
+  "type": "context",
+  "question": "What was the context? Jesus (quoting Psalm 22) said: “Eli, Eli, lema sabachthani?”",
+  "answer": "Crying out with a loud voice about the ninth hour on the cross, after three hours of darkness. It means 'My God, my God, why have you forsaken me?' (Chapter 27)",
+  "reference": "Matthew 27:46",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_eli_eli"
+ },
+ {
+  "id": "who-q_calling_elijah",
+  "type": "who_said",
+  "question": "Who said: “This man is calling Elijah.”",
+  "answer": "Some of the bystanders at the cross. Misunderstanding Jesus' cry 'Eli, Eli'; one ran to offer him sour wine on a sponge.",
+  "reference": "Matthew 27:47",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_calling_elijah"
+ },
+ {
+  "id": "who-q_truly_son_27",
+  "type": "who_said",
+  "question": "Who said: “Truly this was the Son of God!”",
+  "answer": "The centurion and those with him keeping watch over Jesus. Filled with awe at the earthquake and what took place when Jesus died.",
+  "reference": "Matthew 27:54",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_truly_son_27"
+ },
+ {
+  "id": "who-q_impostor",
+  "type": "who_said",
+  "question": "Who said: “Sir, we remember how that impostor said, while he was still alive, 'After three days I will rise.'”",
+  "answer": "The chief priests and the Pharisees. Asking Pilate the day after the crucifixion to make the tomb secure, so the disciples would not steal the body.",
+  "reference": "Matthew 27:63",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_impostor"
+ },
+ {
+  "id": "who-q_guard_secure",
+  "type": "who_said",
+  "question": "Who said: “You have a guard of soldiers. Go, make it as secure as you can.”",
+  "answer": "Pontius Pilate. To the chief priests and Pharisees, who then sealed the stone and set a guard.",
+  "reference": "Matthew 27:65",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_guard_secure"
+ },
+ {
+  "id": "who-q_he_is_risen",
+  "type": "who_said",
+  "question": "Who said: “He is not here, for he has risen, as he said. Come, see the place where he lay.”",
+  "answer": "An angel of the Lord. Sitting on the stone rolled away from the tomb, speaking to Mary Magdalene and the other Mary.",
+  "reference": "Matthew 28:6",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_he_is_risen"
+ },
+ {
+  "id": "ctx-q_tell_brothers",
+  "type": "context",
+  "question": "What was the context? Jesus (risen) said: “Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me.”",
+  "answer": "Meeting the women as they ran from the empty tomb; they took hold of his feet and worshiped him. (Chapter 28)",
+  "reference": "Matthew 28:10",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_tell_brothers"
+ },
+ {
+  "id": "who-q_stole_him",
+  "type": "who_said",
+  "question": "Who said: “Tell people, 'His disciples came by night and stole him away while we were asleep.'”",
+  "answer": "The chief priests and elders. Bribing the soldiers of the guard with a sufficient sum of money after the resurrection.",
+  "reference": "Matthew 28:13",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "q_stole_him"
+ },
+ {
+  "id": "who-q_never_knew",
+  "type": "who_said",
+  "question": "Who said: “Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name? ... I never knew you; depart from me, you workers of lawlessness.”",
+  "answer": "Many who call Jesus 'Lord' on that day, then Jesus. Sermon on the Mount: not everyone who says 'Lord, Lord' will enter the kingdom, but the one who does the Father's will.",
+  "reference": "Matthew 7:22-23",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "q_never_knew"
+ },
+ {
+  "id": "who-q_epileptic",
+  "type": "who_said",
+  "question": "Who said: “Lord, have mercy on my son, for he has seizures and he suffers terribly. For often he falls into the fire, and often into the water.”",
+  "answer": "A father (a man kneeling before Jesus). After Jesus came down from the mount of Transfiguration; the disciples had not been able to heal the boy.",
+  "reference": "Matthew 17:15",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "q_epileptic"
+ },
+ {
+  "id": "who-q_open_to_us",
+  "type": "who_said",
+  "question": "Who said: “Lord, lord, open to us. ... Truly, I say to you, I do not know you.”",
+  "answer": "The five foolish virgins, then the bridegroom. In the parable of the ten virgins, after the door was shut while the foolish were away buying oil.",
+  "reference": "Matthew 25:11-12",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "q_open_to_us"
+ },
+ {
+  "id": "fill-v1_21",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 1:21): “She will bear a son, and you shall call his name ______, for he will save his people from their ______.”",
+  "answer": "Jesus / sins. Full verse: “She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.”",
+  "reference": "Matthew 1:21",
+  "chapter": 1,
+  "section": "Birth & preparation (1-4)",
+  "source": "v1_21",
+  "blanks": [
+   "Jesus",
+   "sins"
+  ]
+ },
+ {
+  "id": "fill-v1_23",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 1:23): “Behold, the virgin shall conceive and bear a son, and they shall call his name ________ (which means, God with us).”",
+  "answer": "Immanuel. Full verse: “Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel (which means, God with us).”",
+  "reference": "Matthew 1:23",
+  "chapter": 1,
+  "section": "Birth & preparation (1-4)",
+  "source": "v1_23",
+  "blanks": [
+   "Immanuel"
+  ]
+ },
+ {
+  "id": "fill-v2_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 2:6): “And you, O _________, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will shepherd my people Israel.”",
+  "answer": "Bethlehem. Full verse: “And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will shepherd my people Israel.”",
+  "reference": "Matthew 2:6",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "v2_6",
+  "blanks": [
+   "Bethlehem"
+  ]
+ },
+ {
+  "id": "fill-v2_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 2:11): “Then, opening their treasures, they offered him gifts, ________________.”",
+  "answer": "gold and frankincense and myrrh. Full verse: “Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh.”",
+  "reference": "Matthew 2:11",
+  "chapter": 2,
+  "section": "Birth & preparation (1-4)",
+  "source": "v2_11",
+  "blanks": [
+   "gold and frankincense and myrrh"
+  ]
+ },
+ {
+  "id": "fill-v3_3",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 3:3): “The voice of one crying in the __________: 'Prepare the way of the Lord; make his paths straight.'”",
+  "answer": "wilderness. Full verse: “The voice of one crying in the wilderness: 'Prepare the way of the Lord; make his paths straight.'”",
+  "reference": "Matthew 3:3",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "v3_3",
+  "blanks": [
+   "wilderness"
+  ]
+ },
+ {
+  "id": "fill-v3_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 3:11): “I baptize you with water for repentance, but he who is coming after me is mightier than I... He will baptize you with the ________________.”",
+  "answer": "Holy Spirit and fire. Full verse: “I baptize you with water for repentance, but he who is coming after me is mightier than I... He will baptize you with the Holy Spirit and fire.”",
+  "reference": "Matthew 3:11",
+  "chapter": 3,
+  "section": "Birth & preparation (1-4)",
+  "source": "v3_11",
+  "blanks": [
+   "Holy Spirit and fire"
+  ]
+ },
+ {
+  "id": "fill-v4_4",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 4:4): “Man shall not live by ______ alone, but by every ______ that comes from the mouth of God.”",
+  "answer": "bread / word. Full verse: “Man shall not live by bread alone, but by every word that comes from the mouth of God.”",
+  "reference": "Matthew 4:4",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "v4_4",
+  "blanks": [
+   "bread",
+   "word"
+  ]
+ },
+ {
+  "id": "fill-v4_10",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 4:10): “Be gone, Satan! For it is written, 'You shall _______ the Lord your God and him only shall you serve.'”",
+  "answer": "worship. Full verse: “Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'”",
+  "reference": "Matthew 4:10",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "v4_10",
+  "blanks": [
+   "worship"
+  ]
+ },
+ {
+  "id": "fill-v4_19",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 4:19): “Follow me, and I will make you ______________.”",
+  "answer": "fishers of men. Full verse: “Follow me, and I will make you fishers of men.”",
+  "reference": "Matthew 4:19",
+  "chapter": 4,
+  "section": "Birth & preparation (1-4)",
+  "source": "v4_19",
+  "blanks": [
+   "fishers of men"
+  ]
+ },
+ {
+  "id": "fill-v5_3",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:3): “Blessed are the ______________, for theirs is the kingdom of heaven.”",
+  "answer": "poor in spirit. Full verse: “Blessed are the poor in spirit, for theirs is the kingdom of heaven.”",
+  "reference": "Matthew 5:3",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_3",
+  "blanks": [
+   "poor in spirit"
+  ]
+ },
+ {
+  "id": "fill-v5_4",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:4): “Blessed are those who ______, for they shall be _________.”",
+  "answer": "mourn / comforted. Full verse: “Blessed are those who mourn, for they shall be comforted.”",
+  "reference": "Matthew 5:4",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_4",
+  "blanks": [
+   "mourn",
+   "comforted"
+  ]
+ },
+ {
+  "id": "fill-v5_5",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:5): “Blessed are the ______, for they shall inherit the ______.”",
+  "answer": "meek / earth. Full verse: “Blessed are the meek, for they shall inherit the earth.”",
+  "reference": "Matthew 5:5",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_5",
+  "blanks": [
+   "meek",
+   "earth"
+  ]
+ },
+ {
+  "id": "fill-v5_6",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:6): “Blessed are those who ________________, for they shall be satisfied.”",
+  "answer": "hunger and thirst for righteousness. Full verse: “Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.”",
+  "reference": "Matthew 5:6",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_6",
+  "blanks": [
+   "hunger and thirst for righteousness"
+  ]
+ },
+ {
+  "id": "fill-v5_7",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:7): “Blessed are the ________, for they shall receive mercy.”",
+  "answer": "merciful. Full verse: “Blessed are the merciful, for they shall receive mercy.”",
+  "reference": "Matthew 5:7",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_7",
+  "blanks": [
+   "merciful"
+  ]
+ },
+ {
+  "id": "fill-v5_8",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:8): “Blessed are the _____________, for they shall see God.”",
+  "answer": "pure in heart. Full verse: “Blessed are the pure in heart, for they shall see God.”",
+  "reference": "Matthew 5:8",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_8",
+  "blanks": [
+   "pure in heart"
+  ]
+ },
+ {
+  "id": "fill-v5_9",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:9): “Blessed are the ___________, for they shall be called ___________.”",
+  "answer": "peacemakers / sons of God. Full verse: “Blessed are the peacemakers, for they shall be called sons of God.”",
+  "reference": "Matthew 5:9",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_9",
+  "blanks": [
+   "peacemakers",
+   "sons of God"
+  ]
+ },
+ {
+  "id": "fill-v5_13",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:13): “You are the ______ of the earth, but if salt has lost its taste, how shall its saltiness be restored?”",
+  "answer": "salt. Full verse: “You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored?”",
+  "reference": "Matthew 5:13",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_13",
+  "blanks": [
+   "salt"
+  ]
+ },
+ {
+  "id": "fill-v5_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:14): “You are the ________________. A city set on a ______ cannot be hidden.”",
+  "answer": "light of the world / hill. Full verse: “You are the light of the world. A city set on a hill cannot be hidden.”",
+  "reference": "Matthew 5:14",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_14",
+  "blanks": [
+   "light of the world",
+   "hill"
+  ]
+ },
+ {
+  "id": "fill-v5_16",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:16): “In the same way, let your light shine before others, so that they may see your __________ and give glory to your ______ who is in heaven.”",
+  "answer": "good works / Father. Full verse: “In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.”",
+  "reference": "Matthew 5:16",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_16",
+  "blanks": [
+   "good works",
+   "Father"
+  ]
+ },
+ {
+  "id": "fill-v5_17",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:17): “Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to _______ them.”",
+  "answer": "fulfill. Full verse: “Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.”",
+  "reference": "Matthew 5:17",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_17",
+  "blanks": [
+   "fulfill"
+  ]
+ },
+ {
+  "id": "fill-v5_39",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:39): “But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, ________________.”",
+  "answer": "turn to him the other also. Full verse: “But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also.”",
+  "reference": "Matthew 5:39",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_39",
+  "blanks": [
+   "turn to him the other also"
+  ]
+ },
+ {
+  "id": "fill-v5_44",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 5:44): “But I say to you, ________________ and ________________.”",
+  "answer": "Love your enemies / pray for those who persecute you. Full verse: “But I say to you, Love your enemies and pray for those who persecute you.”",
+  "reference": "Matthew 5:44",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_44",
+  "blanks": [
+   "Love your enemies",
+   "pray for those who persecute you"
+  ]
+ },
+ {
+  "id": "fill-v5_48",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 5:48): “You therefore must be _______, as your heavenly Father is perfect.”",
+  "answer": "perfect. Full verse: “You therefore must be perfect, as your heavenly Father is perfect.”",
+  "reference": "Matthew 5:48",
+  "chapter": 5,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v5_48",
+  "blanks": [
+   "perfect"
+  ]
+ },
+ {
+  "id": "fill-v6_3",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:3): “But when you give to the needy, do not let your _________ know what your __________ is doing.”",
+  "answer": "left hand / right hand. Full verse: “But when you give to the needy, do not let your left hand know what your right hand is doing.”",
+  "reference": "Matthew 6:3",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_3",
+  "blanks": [
+   "left hand",
+   "right hand"
+  ]
+ },
+ {
+  "id": "fill-v6_9_10",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:9-10): “Our Father in heaven, ________________. Your kingdom come, your ______ be done, on earth as it is in heaven.”",
+  "answer": "hallowed be your name / will. Full verse: “Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven.”",
+  "reference": "Matthew 6:9-10",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_9_10",
+  "blanks": [
+   "hallowed be your name",
+   "will"
+  ]
+ },
+ {
+  "id": "fill-v6_11_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:11-13): “Give us this day our ___________, and forgive us our ______, as we also have forgiven our debtors. And lead us not into __________, but deliver us from evil.”",
+  "answer": "daily bread / debts / temptation. Full verse: “Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil.”",
+  "reference": "Matthew 6:11-13",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_11_13",
+  "blanks": [
+   "daily bread",
+   "debts",
+   "temptation"
+  ]
+ },
+ {
+  "id": "fill-v6_19_20",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:19-20): “Do not lay up for yourselves treasures on earth, where _____________ destroy and where thieves break in and steal, but lay up for yourselves treasures in ______.”",
+  "answer": "moth and rust / heaven. Full verse: “Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven.”",
+  "reference": "Matthew 6:19-20",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_19_20",
+  "blanks": [
+   "moth and rust",
+   "heaven"
+  ]
+ },
+ {
+  "id": "fill-v6_21",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:21): “For where your ________ is, there your ______ will be also.”",
+  "answer": "treasure / heart. Full verse: “For where your treasure is, there your heart will be also.”",
+  "reference": "Matthew 6:21",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_21",
+  "blanks": [
+   "treasure",
+   "heart"
+  ]
+ },
+ {
+  "id": "fill-v6_24",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:24): “No one can serve ___________, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and ______.”",
+  "answer": "two masters / money. Full verse: “No one can serve two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.”",
+  "reference": "Matthew 6:24",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_24",
+  "blanks": [
+   "two masters",
+   "money"
+  ]
+ },
+ {
+  "id": "fill-v6_26",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 6:26): “Look at the ________________: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?”",
+  "answer": "birds of the air. Full verse: “Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?”",
+  "reference": "Matthew 6:26",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_26",
+  "blanks": [
+   "birds of the air"
+  ]
+ },
+ {
+  "id": "fill-v6_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:28-29): “Consider the ________________, how they grow: they neither toil nor spin, yet I tell you, even _______ in all his glory was not arrayed like one of these.”",
+  "answer": "lilies of the field / Solomon. Full verse: “Consider the lilies of the field, how they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these.”",
+  "reference": "Matthew 6:28-29",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_28",
+  "blanks": [
+   "lilies of the field",
+   "Solomon"
+  ]
+ },
+ {
+  "id": "fill-v6_33",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:33): “But seek first the ______________ and his _____________, and all these things will be added to you.”",
+  "answer": "kingdom of God / righteousness. Full verse: “But seek first the kingdom of God and his righteousness, and all these things will be added to you.”",
+  "reference": "Matthew 6:33",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_33",
+  "blanks": [
+   "kingdom of God",
+   "righteousness"
+  ]
+ },
+ {
+  "id": "fill-v6_34",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 6:34): “Therefore do not be anxious about ________, for tomorrow will be anxious for itself. Sufficient for the day is its own _______.”",
+  "answer": "tomorrow / trouble. Full verse: “Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.”",
+  "reference": "Matthew 6:34",
+  "chapter": 6,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v6_34",
+  "blanks": [
+   "tomorrow",
+   "trouble"
+  ]
+ },
+ {
+  "id": "fill-v7_1",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 7:1): “_________, that you be not judged.”",
+  "answer": "Judge not. Full verse: “Judge not, that you be not judged.”",
+  "reference": "Matthew 7:1",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_1",
+  "blanks": [
+   "Judge not"
+  ]
+ },
+ {
+  "id": "fill-v7_3",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:3): “Why do you see the ______ that is in your brother's eye, but do not notice the ______ that is in your own eye?”",
+  "answer": "speck / log. Full verse: “Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?”",
+  "reference": "Matthew 7:3",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_3",
+  "blanks": [
+   "speck",
+   "log"
+  ]
+ },
+ {
+  "id": "fill-v7_6",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:6): “Do not give dogs what is holy, and do not throw your ______ before ______, lest they trample them underfoot and turn to attack you.”",
+  "answer": "pearls / pigs. Full verse: “Do not give dogs what is holy, and do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you.”",
+  "reference": "Matthew 7:6",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_6",
+  "blanks": [
+   "pearls",
+   "pigs"
+  ]
+ },
+ {
+  "id": "fill-v7_7",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:7): “______, and it will be given to you; ______, and you will find; ______, and it will be opened to you.”",
+  "answer": "Ask / seek / knock. Full verse: “Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.”",
+  "reference": "Matthew 7:7",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_7",
+  "blanks": [
+   "Ask",
+   "seek",
+   "knock"
+  ]
+ },
+ {
+  "id": "fill-v7_12",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:12): “So whatever you wish that others would do to you, _______________, for this is the ________________.”",
+  "answer": "do also to them / Law and the Prophets. Full verse: “So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets.”",
+  "reference": "Matthew 7:12",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_12",
+  "blanks": [
+   "do also to them",
+   "Law and the Prophets"
+  ]
+ },
+ {
+  "id": "fill-v7_13_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:13-14): “Enter by the ___________. For the gate is wide and the way is easy that leads to ___________, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.”",
+  "answer": "narrow gate / destruction. Full verse: “Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.”",
+  "reference": "Matthew 7:13-14",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_13_14",
+  "blanks": [
+   "narrow gate",
+   "destruction"
+  ]
+ },
+ {
+  "id": "fill-v7_15",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 7:15): “Beware of false prophets, who come to you in ________________ but inwardly are ravenous ______.”",
+  "answer": "sheep's clothing / wolves. Full verse: “Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.”",
+  "reference": "Matthew 7:15",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_15",
+  "blanks": [
+   "sheep's clothing",
+   "wolves"
+  ]
+ },
+ {
+  "id": "fill-v7_20",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 7:20): “Thus you will recognize them by their ______.”",
+  "answer": "fruits. Full verse: “Thus you will recognize them by their fruits.”",
+  "reference": "Matthew 7:20",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_20",
+  "blanks": [
+   "fruits"
+  ]
+ },
+ {
+  "id": "fill-v7_24",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 7:24): “Everyone then who hears these words of mine and does them will be like a wise man who built his house on the ______.”",
+  "answer": "rock. Full verse: “Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.”",
+  "reference": "Matthew 7:24",
+  "chapter": 7,
+  "section": "Sermon on the Mount (5-7)",
+  "source": "v7_24",
+  "blanks": [
+   "rock"
+  ]
+ },
+ {
+  "id": "fill-v9_12",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 9:12): “Those who are well have no need of a _________, but those who are ______.”",
+  "answer": "physician / sick. Full verse: “Those who are well have no need of a physician, but those who are sick.”",
+  "reference": "Matthew 9:12",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "v9_12",
+  "blanks": [
+   "physician",
+   "sick"
+  ]
+ },
+ {
+  "id": "fill-v9_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 9:13): “Go and learn what this means: 'I desire ______, and not _________.' For I came not to call the righteous, but sinners.”",
+  "answer": "mercy / sacrifice. Full verse: “Go and learn what this means: 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners.”",
+  "reference": "Matthew 9:13",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "v9_13",
+  "blanks": [
+   "mercy",
+   "sacrifice"
+  ]
+ },
+ {
+  "id": "fill-v9_17",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 9:17): “Neither is new wine put into old _________. If it is, the skins burst and the wine is spilled and the skins are destroyed.”",
+  "answer": "wineskins. Full verse: “Neither is new wine put into old wineskins. If it is, the skins burst and the wine is spilled and the skins are destroyed.”",
+  "reference": "Matthew 9:17",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "v9_17",
+  "blanks": [
+   "wineskins"
+  ]
+ },
+ {
+  "id": "fill-v9_37_38",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 9:37-38): “The _______ is plentiful, but the ________ are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”",
+  "answer": "harvest / laborers. Full verse: “The harvest is plentiful, but the laborers are few; therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”",
+  "reference": "Matthew 9:37-38",
+  "chapter": 9,
+  "section": "Miracles & mission (8-10)",
+  "source": "v9_37_38",
+  "blanks": [
+   "harvest",
+   "laborers"
+  ]
+ },
+ {
+  "id": "fill-v10_16",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 10:16): “Behold, I am sending you out as sheep in the midst of wolves, so be wise as ________ and innocent as ______.”",
+  "answer": "serpents / doves. Full verse: “Behold, I am sending you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves.”",
+  "reference": "Matthew 10:16",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "v10_16",
+  "blanks": [
+   "serpents",
+   "doves"
+  ]
+ },
+ {
+  "id": "fill-v10_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 10:28): “And do not fear those who kill the ______ but cannot kill the ______. Rather fear him who can destroy both soul and body in hell.”",
+  "answer": "body / soul. Full verse: “And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.”",
+  "reference": "Matthew 10:28",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "v10_28",
+  "blanks": [
+   "body",
+   "soul"
+  ]
+ },
+ {
+  "id": "fill-v10_29_30",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 10:29-30): “Are not two ________ sold for a penny? And not one of them will fall to the ground apart from your Father. But even the ________________ are all numbered.”",
+  "answer": "sparrows / hairs of your head. Full verse: “Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father. But even the hairs of your head are all numbered.”",
+  "reference": "Matthew 10:29-30",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "v10_29_30",
+  "blanks": [
+   "sparrows",
+   "hairs of your head"
+  ]
+ },
+ {
+  "id": "fill-v10_34",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 10:34): “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a ______.”",
+  "answer": "sword. Full verse: “Do not think that I have come to bring peace to the earth. I have not come to bring peace, but a sword.”",
+  "reference": "Matthew 10:34",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "v10_34",
+  "blanks": [
+   "sword"
+  ]
+ },
+ {
+  "id": "fill-v10_39",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 10:39): “Whoever finds his life will ______ it, and whoever loses his life for my sake will ______ it.”",
+  "answer": "lose / find. Full verse: “Whoever finds his life will lose it, and whoever loses his life for my sake will find it.”",
+  "reference": "Matthew 10:39",
+  "chapter": 10,
+  "section": "Miracles & mission (8-10)",
+  "source": "v10_39",
+  "blanks": [
+   "lose",
+   "find"
+  ]
+ },
+ {
+  "id": "fill-v11_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 11:28): “Come to me, all who ______ and are ___________, and I will give you rest.”",
+  "answer": "labor / heavy laden. Full verse: “Come to me, all who labor and are heavy laden, and I will give you rest.”",
+  "reference": "Matthew 11:28",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "v11_28",
+  "blanks": [
+   "labor",
+   "heavy laden"
+  ]
+ },
+ {
+  "id": "fill-v11_29_30",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 11:29-30): “Take my ______ upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is ______, and my burden is ______.”",
+  "answer": "yoke / easy / light. Full verse: “Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light.”",
+  "reference": "Matthew 11:29-30",
+  "chapter": 11,
+  "section": "Opposition & parables (11-13)",
+  "source": "v11_29_30",
+  "blanks": [
+   "yoke",
+   "easy",
+   "light"
+  ]
+ },
+ {
+  "id": "fill-v12_8",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 12:8): “For the Son of Man is lord of the _______.”",
+  "answer": "Sabbath. Full verse: “For the Son of Man is lord of the Sabbath.”",
+  "reference": "Matthew 12:8",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_8",
+  "blanks": [
+   "Sabbath"
+  ]
+ },
+ {
+  "id": "fill-v12_25",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 12:25): “Every kingdom divided against itself is laid waste, and no city or ________________ will stand.”",
+  "answer": "house divided against itself. Full verse: “Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand.”",
+  "reference": "Matthew 12:25",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_25",
+  "blanks": [
+   "house divided against itself"
+  ]
+ },
+ {
+  "id": "fill-v12_30",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 12:30): “Whoever is not with me is __________, and whoever does not gather with me ________.”",
+  "answer": "against me / scatters. Full verse: “Whoever is not with me is against me, and whoever does not gather with me scatters.”",
+  "reference": "Matthew 12:30",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_30",
+  "blanks": [
+   "against me",
+   "scatters"
+  ]
+ },
+ {
+  "id": "fill-v12_34",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 12:34): “For out of the abundance of the ______ the ______ speaks.”",
+  "answer": "heart / mouth. Full verse: “For out of the abundance of the heart the mouth speaks.”",
+  "reference": "Matthew 12:34",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_34",
+  "blanks": [
+   "heart",
+   "mouth"
+  ]
+ },
+ {
+  "id": "fill-v12_40",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 12:40): “For just as ______ was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.”",
+  "answer": "Jonah. Full verse: “For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.”",
+  "reference": "Matthew 12:40",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_40",
+  "blanks": [
+   "Jonah"
+  ]
+ },
+ {
+  "id": "fill-v12_50",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 12:50): “For whoever does the ________________ in heaven is my brother and sister and mother.”",
+  "answer": "will of my Father. Full verse: “For whoever does the will of my Father in heaven is my brother and sister and mother.”",
+  "reference": "Matthew 12:50",
+  "chapter": 12,
+  "section": "Opposition & parables (11-13)",
+  "source": "v12_50",
+  "blanks": [
+   "will of my Father"
+  ]
+ },
+ {
+  "id": "fill-v13_31",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 13:31-32): “The kingdom of heaven is like a grain of ____________ that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a ______.”",
+  "answer": "mustard seed / tree. Full verse: “The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree.”",
+  "reference": "Matthew 13:31-32",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "v13_31",
+  "blanks": [
+   "mustard seed",
+   "tree"
+  ]
+ },
+ {
+  "id": "fill-v13_44",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 13:44): “The kingdom of heaven is like ________________, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.”",
+  "answer": "treasure hidden in a field. Full verse: “The kingdom of heaven is like treasure hidden in a field, which a man found and covered up. Then in his joy he goes and sells all that he has and buys that field.”",
+  "reference": "Matthew 13:44",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "v13_44",
+  "blanks": [
+   "treasure hidden in a field"
+  ]
+ },
+ {
+  "id": "fill-v13_45",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 13:45-46): “Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one ________________, went and sold all that he had and bought it.”",
+  "answer": "pearl of great value. Full verse: “Again, the kingdom of heaven is like a merchant in search of fine pearls, who, on finding one pearl of great value, went and sold all that he had and bought it.”",
+  "reference": "Matthew 13:45-46",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "v13_45",
+  "blanks": [
+   "pearl of great value"
+  ]
+ },
+ {
+  "id": "fill-v13_57",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 13:57): “A prophet is not without ______ except in his ________ and in his own household.”",
+  "answer": "honor / hometown. Full verse: “A prophet is not without honor except in his hometown and in his own household.”",
+  "reference": "Matthew 13:57",
+  "chapter": 13,
+  "section": "Opposition & parables (11-13)",
+  "source": "v13_57",
+  "blanks": [
+   "honor",
+   "hometown"
+  ]
+ },
+ {
+  "id": "fill-v15_8",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 15:8): “This people honors me with their ______, but their ______ is far from me.”",
+  "answer": "lips / heart. Full verse: “This people honors me with their lips, but their heart is far from me.”",
+  "reference": "Matthew 15:8",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v15_8",
+  "blanks": [
+   "lips",
+   "heart"
+  ]
+ },
+ {
+  "id": "fill-v15_11",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 15:11): “It is not what goes into the mouth that defiles a person, but what ________________; this defiles a person.”",
+  "answer": "comes out of the mouth. Full verse: “It is not what goes into the mouth that defiles a person, but what comes out of the mouth; this defiles a person.”",
+  "reference": "Matthew 15:11",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v15_11",
+  "blanks": [
+   "comes out of the mouth"
+  ]
+ },
+ {
+  "id": "fill-v15_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 15:14): “They are blind guides. And if the ______ lead the blind, both will fall into a ______.”",
+  "answer": "blind / pit. Full verse: “They are blind guides. And if the blind lead the blind, both will fall into a pit.”",
+  "reference": "Matthew 15:14",
+  "chapter": 15,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v15_14",
+  "blanks": [
+   "blind",
+   "pit"
+  ]
+ },
+ {
+  "id": "fill-v16_18",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 16:18): “And I tell you, you are ______, and on this ______ I will build my ______, and the gates of hell shall not prevail against it.”",
+  "answer": "Peter / rock / church. Full verse: “And I tell you, you are Peter, and on this rock I will build my church, and the gates of hell shall not prevail against it.”",
+  "reference": "Matthew 16:18",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v16_18",
+  "blanks": [
+   "Peter",
+   "rock",
+   "church"
+  ]
+ },
+ {
+  "id": "fill-v16_19",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 16:19): “I will give you the ________________, and whatever you bind on earth shall be bound in heaven.”",
+  "answer": "keys of the kingdom of heaven. Full verse: “I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven.”",
+  "reference": "Matthew 16:19",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v16_19",
+  "blanks": [
+   "keys of the kingdom of heaven"
+  ]
+ },
+ {
+  "id": "fill-v16_24",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 16:24): “If anyone would come after me, let him ____________ and take up his ______ and follow me.”",
+  "answer": "deny himself / cross. Full verse: “If anyone would come after me, let him deny himself and take up his cross and follow me.”",
+  "reference": "Matthew 16:24",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v16_24",
+  "blanks": [
+   "deny himself",
+   "cross"
+  ]
+ },
+ {
+  "id": "fill-v16_26",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 16:26): “For what will it profit a man if he gains the whole ______ and forfeits his ______?”",
+  "answer": "world / soul. Full verse: “For what will it profit a man if he gains the whole world and forfeits his soul?”",
+  "reference": "Matthew 16:26",
+  "chapter": 16,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v16_26",
+  "blanks": [
+   "world",
+   "soul"
+  ]
+ },
+ {
+  "id": "fill-v17_20",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 17:20): “For truly, I say to you, if you have faith like a grain of ____________, you will say to this ________, 'Move from here to there,' and it will move, and nothing will be impossible for you.”",
+  "answer": "mustard seed / mountain. Full verse: “For truly, I say to you, if you have faith like a grain of mustard seed, you will say to this mountain, 'Move from here to there,' and it will move, and nothing will be impossible for you.”",
+  "reference": "Matthew 17:20",
+  "chapter": 17,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v17_20",
+  "blanks": [
+   "mustard seed",
+   "mountain"
+  ]
+ },
+ {
+  "id": "fill-v18_3",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 18:3): “Truly, I say to you, unless you turn and become like ________, you will never enter the kingdom of heaven.”",
+  "answer": "children. Full verse: “Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven.”",
+  "reference": "Matthew 18:3",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v18_3",
+  "blanks": [
+   "children"
+  ]
+ },
+ {
+  "id": "fill-v18_12",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 18:12): “If a man has a hundred sheep, and one of them has gone astray, does he not leave the ___________ on the mountains and go in search of the one that went astray?”",
+  "answer": "ninety-nine. Full verse: “If a man has a hundred sheep, and one of them has gone astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray?”",
+  "reference": "Matthew 18:12",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v18_12",
+  "blanks": [
+   "ninety-nine"
+  ]
+ },
+ {
+  "id": "fill-v18_20",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 18:20): “For where ____________ are gathered in my name, there am I among them.”",
+  "answer": "two or three. Full verse: “For where two or three are gathered in my name, there am I among them.”",
+  "reference": "Matthew 18:20",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v18_20",
+  "blanks": [
+   "two or three"
+  ]
+ },
+ {
+  "id": "fill-v18_22",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 18:22): “I do not say to you seven times, but _____________ times. (ESV footnote: or seventy times seven)”",
+  "answer": "seventy-seven. Full verse: “I do not say to you seven times, but seventy-seven times. (ESV footnote: or seventy times seven)”",
+  "reference": "Matthew 18:22",
+  "chapter": 18,
+  "section": "Feedings, confession & community (14-18)",
+  "source": "v18_22",
+  "blanks": [
+   "seventy-seven"
+  ]
+ },
+ {
+  "id": "fill-v19_6",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 19:6): “So they are no longer two but _________. What therefore God has joined together, let not man ________.”",
+  "answer": "one flesh / separate. Full verse: “So they are no longer two but one flesh. What therefore God has joined together, let not man separate.”",
+  "reference": "Matthew 19:6",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v19_6",
+  "blanks": [
+   "one flesh",
+   "separate"
+  ]
+ },
+ {
+  "id": "fill-v19_14",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 19:14): “Let the _______________ come to me and do not hinder them, for to such belongs the kingdom of heaven.”",
+  "answer": "little children. Full verse: “Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven.”",
+  "reference": "Matthew 19:14",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v19_14",
+  "blanks": [
+   "little children"
+  ]
+ },
+ {
+  "id": "fill-v19_24",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 19:24): “Again I tell you, it is easier for a ______ to go through the eye of a ______ than for a rich person to enter the kingdom of God.”",
+  "answer": "camel / needle. Full verse: “Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”",
+  "reference": "Matthew 19:24",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v19_24",
+  "blanks": [
+   "camel",
+   "needle"
+  ]
+ },
+ {
+  "id": "fill-v19_26",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 19:26): “With man this is impossible, but with God ________________.”",
+  "answer": "all things are possible. Full verse: “With man this is impossible, but with God all things are possible.”",
+  "reference": "Matthew 19:26",
+  "chapter": 19,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v19_26",
+  "blanks": [
+   "all things are possible"
+  ]
+ },
+ {
+  "id": "fill-v20_16",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 20:16): “So the ______ will be first, and the ______ last.”",
+  "answer": "last / first. Full verse: “So the last will be first, and the first last.”",
+  "reference": "Matthew 20:16",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v20_16",
+  "blanks": [
+   "last",
+   "first"
+  ]
+ },
+ {
+  "id": "fill-v20_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 20:28): “Even as the Son of Man came not to be served but to ______, and to give his life as a ______ for many.”",
+  "answer": "serve / ransom. Full verse: “Even as the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”",
+  "reference": "Matthew 20:28",
+  "chapter": 20,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v20_28",
+  "blanks": [
+   "serve",
+   "ransom"
+  ]
+ },
+ {
+  "id": "fill-v21_9",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 21:9): “_______ to the Son of David! Blessed is he who comes in the ________________! Hosanna in the highest!”",
+  "answer": "Hosanna / name of the Lord. Full verse: “Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”",
+  "reference": "Matthew 21:9",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v21_9",
+  "blanks": [
+   "Hosanna",
+   "name of the Lord"
+  ]
+ },
+ {
+  "id": "fill-v21_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 21:13): “It is written, 'My house shall be called a house of ______,' but you make it a ______________.”",
+  "answer": "prayer / den of robbers. Full verse: “It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers.”",
+  "reference": "Matthew 21:13",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v21_13",
+  "blanks": [
+   "prayer",
+   "den of robbers"
+  ]
+ },
+ {
+  "id": "fill-v21_22",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 21:22): “And whatever you ask in prayer, you will receive, if you have ______.”",
+  "answer": "faith. Full verse: “And whatever you ask in prayer, you will receive, if you have faith.”",
+  "reference": "Matthew 21:22",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v21_22",
+  "blanks": [
+   "faith"
+  ]
+ },
+ {
+  "id": "fill-v21_42",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 21:42): “The stone that the builders ________ has become the ___________.”",
+  "answer": "rejected / cornerstone. Full verse: “The stone that the builders rejected has become the cornerstone.”",
+  "reference": "Matthew 21:42",
+  "chapter": 21,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v21_42",
+  "blanks": [
+   "rejected",
+   "cornerstone"
+  ]
+ },
+ {
+  "id": "fill-v22_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 22:14): “For many are ______, but few are ______.”",
+  "answer": "called / chosen. Full verse: “For many are called, but few are chosen.”",
+  "reference": "Matthew 22:14",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v22_14",
+  "blanks": [
+   "called",
+   "chosen"
+  ]
+ },
+ {
+  "id": "fill-v22_21",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 22:21): “Therefore render to ______ the things that are Caesar's, and to ______ the things that are God's.”",
+  "answer": "Caesar / God. Full verse: “Therefore render to Caesar the things that are Caesar's, and to God the things that are God's.”",
+  "reference": "Matthew 22:21",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v22_21",
+  "blanks": [
+   "Caesar",
+   "God"
+  ]
+ },
+ {
+  "id": "fill-v22_37",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 22:37): “You shall love the Lord your God with all your ______ and with all your ______ and with all your ______.”",
+  "answer": "heart / soul / mind. Full verse: “You shall love the Lord your God with all your heart and with all your soul and with all your mind.”",
+  "reference": "Matthew 22:37",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v22_37",
+  "blanks": [
+   "heart",
+   "soul",
+   "mind"
+  ]
+ },
+ {
+  "id": "fill-v22_39_40",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 22:39-40): “And a second is like it: You shall love your ________ as ________. On these two commandments depend all the Law and the Prophets.”",
+  "answer": "neighbor / yourself. Full verse: “And a second is like it: You shall love your neighbor as yourself. On these two commandments depend all the Law and the Prophets.”",
+  "reference": "Matthew 22:39-40",
+  "chapter": 22,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v22_39_40",
+  "blanks": [
+   "neighbor",
+   "yourself"
+  ]
+ },
+ {
+  "id": "fill-v23_11_12",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 23:11-12): “The greatest among you shall be your _______. Whoever exalts himself will be _______, and whoever humbles himself will be _______.”",
+  "answer": "servant / humbled / exalted. Full verse: “The greatest among you shall be your servant. Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.”",
+  "reference": "Matthew 23:11-12",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v23_11_12",
+  "blanks": [
+   "servant",
+   "humbled",
+   "exalted"
+  ]
+ },
+ {
+  "id": "fill-v23_24",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 23:24): “You blind guides, straining out a ______ and swallowing a ______!”",
+  "answer": "gnat / camel. Full verse: “You blind guides, straining out a gnat and swallowing a camel!”",
+  "reference": "Matthew 23:24",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v23_24",
+  "blanks": [
+   "gnat",
+   "camel"
+  ]
+ },
+ {
+  "id": "fill-v23_27",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 23:27): “Woe to you, scribes and Pharisees, hypocrites! For you are like ________________, which outwardly appear beautiful, but within are full of dead people's bones and all uncleanness.”",
+  "answer": "whitewashed tombs. Full verse: “Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs, which outwardly appear beautiful, but within are full of dead people's bones and all uncleanness.”",
+  "reference": "Matthew 23:27",
+  "chapter": 23,
+  "section": "Journey & Jerusalem debates (19-23)",
+  "source": "v23_27",
+  "blanks": [
+   "whitewashed tombs"
+  ]
+ },
+ {
+  "id": "fill-v24_14",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 24:14): “And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to ___________, and then the ______ will come.”",
+  "answer": "all nations / end. Full verse: “And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.”",
+  "reference": "Matthew 24:14",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "v24_14",
+  "blanks": [
+   "all nations",
+   "end"
+  ]
+ },
+ {
+  "id": "fill-v24_35",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 24:35): “Heaven and earth will pass away, but my ______ will not pass away.”",
+  "answer": "words. Full verse: “Heaven and earth will pass away, but my words will not pass away.”",
+  "reference": "Matthew 24:35",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "v24_35",
+  "blanks": [
+   "words"
+  ]
+ },
+ {
+  "id": "fill-v24_36",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 24:36): “But concerning that day and hour ____________, not even the angels of heaven, nor the Son, but the ______ only.”",
+  "answer": "no one knows / Father. Full verse: “But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.”",
+  "reference": "Matthew 24:36",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "v24_36",
+  "blanks": [
+   "no one knows",
+   "Father"
+  ]
+ },
+ {
+  "id": "fill-v24_37",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 24:37): “For as were the days of ______, so will be the coming of the Son of Man.”",
+  "answer": "Noah. Full verse: “For as were the days of Noah, so will be the coming of the Son of Man.”",
+  "reference": "Matthew 24:37",
+  "chapter": 24,
+  "section": "End of the age (24-25)",
+  "source": "v24_37",
+  "blanks": [
+   "Noah"
+  ]
+ },
+ {
+  "id": "fill-v25_13",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 25:13): “Watch therefore, for you know neither the ______ nor the ______.”",
+  "answer": "day / hour. Full verse: “Watch therefore, for you know neither the day nor the hour.”",
+  "reference": "Matthew 25:13",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "v25_13",
+  "blanks": [
+   "day",
+   "hour"
+  ]
+ },
+ {
+  "id": "fill-v25_21",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 25:21): “Well done, ________________ servant. You have been faithful over a ______; I will set you over much. Enter into the joy of your master.”",
+  "answer": "good and faithful / little. Full verse: “Well done, good and faithful servant. You have been faithful over a little; I will set you over much. Enter into the joy of your master.”",
+  "reference": "Matthew 25:21",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "v25_21",
+  "blanks": [
+   "good and faithful",
+   "little"
+  ]
+ },
+ {
+  "id": "fill-v25_35_36",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 25:35-36): “For I was ______ and you gave me food, I was _______ and you gave me drink, I was a ________ and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in ______ and you came to me.”",
+  "answer": "hungry / thirsty / stranger / prison. Full verse: “For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.”",
+  "reference": "Matthew 25:35-36",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "v25_35_36",
+  "blanks": [
+   "hungry",
+   "thirsty",
+   "stranger",
+   "prison"
+  ]
+ },
+ {
+  "id": "fill-v25_40",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 25:40): “Truly, I say to you, as you did it to one of the ______________ my brothers, you did it to ______.”",
+  "answer": "least of these / me. Full verse: “Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.”",
+  "reference": "Matthew 25:40",
+  "chapter": 25,
+  "section": "End of the age (24-25)",
+  "source": "v25_40",
+  "blanks": [
+   "least of these",
+   "me"
+  ]
+ },
+ {
+  "id": "fill-v26_26",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 26:26): “Take, eat; this is my ______.”",
+  "answer": "body. Full verse: “Take, eat; this is my body.”",
+  "reference": "Matthew 26:26",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_26",
+  "blanks": [
+   "body"
+  ]
+ },
+ {
+  "id": "fill-v26_28",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 26:28): “For this is my blood of the ________, which is poured out for many for the ________________.”",
+  "answer": "covenant / forgiveness of sins. Full verse: “For this is my blood of the covenant, which is poured out for many for the forgiveness of sins.”",
+  "reference": "Matthew 26:28",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_28",
+  "blanks": [
+   "covenant",
+   "forgiveness of sins"
+  ]
+ },
+ {
+  "id": "fill-v26_34",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 26:34): “Truly, I tell you, this very night, before the _______ crows, you will deny me ___________.”",
+  "answer": "rooster / three times. Full verse: “Truly, I tell you, this very night, before the rooster crows, you will deny me three times.”",
+  "reference": "Matthew 26:34",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_34",
+  "blanks": [
+   "rooster",
+   "three times"
+  ]
+ },
+ {
+  "id": "fill-v26_39",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 26:39): “My Father, if it be possible, let this ______ pass from me; nevertheless, not as ______, but as ________.”",
+  "answer": "cup / I will / you will. Full verse: “My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will.”",
+  "reference": "Matthew 26:39",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_39",
+  "blanks": [
+   "cup",
+   "I will",
+   "you will"
+  ]
+ },
+ {
+  "id": "fill-v26_41",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 26:41): “Watch and pray that you may not enter into temptation. The ______ indeed is willing, but the ______ is weak.”",
+  "answer": "spirit / flesh. Full verse: “Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”",
+  "reference": "Matthew 26:41",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_41",
+  "blanks": [
+   "spirit",
+   "flesh"
+  ]
+ },
+ {
+  "id": "fill-v26_52",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 26:52): “Put your sword back into its place. For all who take the ______ will ______ by the sword.”",
+  "answer": "sword / perish. Full verse: “Put your sword back into its place. For all who take the sword will perish by the sword.”",
+  "reference": "Matthew 26:52",
+  "chapter": 26,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v26_52",
+  "blanks": [
+   "sword",
+   "perish"
+  ]
+ },
+ {
+  "id": "fill-v27_46",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 27:46): “Eli, Eli, lema sabachthani? that is, My God, my God, why have you ________ me?”",
+  "answer": "forsaken. Full verse: “Eli, Eli, lema sabachthani? that is, My God, my God, why have you forsaken me?”",
+  "reference": "Matthew 27:46",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v27_46",
+  "blanks": [
+   "forsaken"
+  ]
+ },
+ {
+  "id": "fill-v27_54",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 27:54): “Truly this was the __________!”",
+  "answer": "Son of God. Full verse: “Truly this was the Son of God!”",
+  "reference": "Matthew 27:54",
+  "chapter": 27,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v27_54",
+  "blanks": [
+   "Son of God"
+  ]
+ },
+ {
+  "id": "fill-v28_6",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 28:6): “He is not here, for he has ______, as he said. Come, see the place where he ______.”",
+  "answer": "risen / lay. Full verse: “He is not here, for he has risen, as he said. Come, see the place where he lay.”",
+  "reference": "Matthew 28:6",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v28_6",
+  "blanks": [
+   "risen",
+   "lay"
+  ]
+ },
+ {
+  "id": "fill-v28_18",
+  "type": "fill_blank",
+  "question": "Fill in the blank (Matthew 28:18): “_____________ in heaven and on earth has been given to me.”",
+  "answer": "All authority. Full verse: “All authority in heaven and on earth has been given to me.”",
+  "reference": "Matthew 28:18",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v28_18",
+  "blanks": [
+   "All authority"
+  ]
+ },
+ {
+  "id": "fill-v28_19",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 28:19): “Go therefore and make _________ of ___________, baptizing them in the name of the ______ and of the ______ and of the ___________.”",
+  "answer": "disciples / all nations / Father / Son / Holy Spirit. Full verse: “Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.”",
+  "reference": "Matthew 28:19",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v28_19",
+  "blanks": [
+   "disciples",
+   "all nations",
+   "Father",
+   "Son",
+   "Holy Spirit"
+  ]
+ },
+ {
+  "id": "fill-v28_20",
+  "type": "fill_blank",
+  "question": "Fill in the blanks (Matthew 28:20): “Teaching them to observe all that I have commanded you. And behold, I am with you ______, to the ______________.”",
+  "answer": "always / end of the age. Full verse: “Teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age.”",
+  "reference": "Matthew 28:20",
+  "chapter": 28,
+  "section": "Passion & resurrection (26-28)",
+  "source": "v28_20",
+  "blanks": [
+   "always",
+   "end of the age"
+  ]
+ }
+]
